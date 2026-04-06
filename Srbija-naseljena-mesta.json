@@ -1,0 +1,5736 @@
+{
+    "scheme": "places",
+    "version": "beta-1",
+    "items": [
+        {
+            "id": "0001",
+            "name": "Ada",
+            "posta": "24430"
+        },
+        {
+            "id": "0002",
+            "name": "Adaševci",
+            "posta": "22244"
+        },
+        {
+            "id": "0003",
+            "name": "Adorjan",
+            "posta": "24425"
+        },
+        {
+            "id": "0004",
+            "name": "Adrani",
+            "posta": "36203"
+        },
+        {
+            "id": "0005",
+            "name": "Aleksinački Rudnik",
+            "posta": "18226"
+        },
+        {
+            "id": "0006",
+            "name": "Aleksa Šantić",
+            "posta": "25212"
+        },
+        {
+            "id": "0007",
+            "name": "Aleksandrovac (Kruševački)",
+            "posta": "37230"
+        },
+        {
+            "id": "0008",
+            "name": "Aleksandrovac (Požarevački)",
+            "posta": "12370"
+        },
+        {
+            "id": "0009",
+            "name": "Aleksandrovo",
+            "posta": "23217"
+        },
+        {
+            "id": "0010",
+            "name": "Aleksinac",
+            "posta": "18220"
+        },
+        {
+            "id": "0011",
+            "name": "Alibunar",
+            "posta": "26310"
+        },
+        {
+            "id": "0012",
+            "name": "Aljinovici",
+            "posta": "31307"
+        },
+        {
+            "id": "0013",
+            "name": "Apatin",
+            "posta": "25260"
+        },
+        {
+            "id": "0014",
+            "name": "Aradac",
+            "posta": "23207"
+        },
+        {
+            "id": "0015",
+            "name": "Aranđelovac",
+            "posta": "34300"
+        },
+        {
+            "id": "0016",
+            "name": "Arilje",
+            "posta": "31230"
+        },
+        {
+            "id": "0017",
+            "name": "Ašanja",
+            "posta": "22418"
+        },
+        {
+            "id": "0018",
+            "name": "Azanja",
+            "posta": "11423"
+        },
+        {
+            "id": "0019",
+            "name": "Babin Kal",
+            "posta": "18315"
+        },
+        {
+            "id": "0020",
+            "name": "Babušnica",
+            "posta": "18330"
+        },
+        {
+            "id": "0021",
+            "name": "Bač",
+            "posta": "21420"
+        },
+        {
+            "id": "0022",
+            "name": "Bačevci",
+            "posta": "31258"
+        },
+        {
+            "id": "0023",
+            "name": "Bačina",
+            "posta": "37265"
+        },
+        {
+            "id": "0024",
+            "name": "Bačinci",
+            "posta": "22225"
+        },
+        {
+            "id": "0025",
+            "name": "Bačka Palanka",
+            "posta": "21400"
+        },
+        {
+            "id": "0026",
+            "name": "Bačka Topola",
+            "posta": "24300"
+        },
+        {
+            "id": "0027",
+            "name": "Bački Breg",
+            "posta": "25275"
+        },
+        {
+            "id": "0028",
+            "name": "Bački Brestovac",
+            "posta": "25242"
+        },
+        {
+            "id": "0029",
+            "name": "Bački Gracac",
+            "posta": "25252"
+        },
+        {
+            "id": "0030",
+            "name": "Bački Jarak",
+            "posta": "21234"
+        },
+        {
+            "id": "0031",
+            "name": "Bački Monoštor",
+            "posta": "25272"
+        },
+        {
+            "id": "0032",
+            "name": "Bački Petrovac",
+            "posta": "21470"
+        },
+        {
+            "id": "0033",
+            "name": "Bački Sokolac",
+            "posta": "24343"
+        },
+        {
+            "id": "0034",
+            "name": "Bački Vinogradi",
+            "posta": "24415"
+        },
+        {
+            "id": "0035",
+            "name": "Bačko Dobro Polje",
+            "posta": "21465"
+        },
+        {
+            "id": "0036",
+            "name": "Bačko Gradište",
+            "posta": "21217"
+        },
+        {
+            "id": "0037",
+            "name": "Backo Novo Selo",
+            "posta": "21429"
+        },
+        {
+            "id": "0038",
+            "name": "Backo Petrovo Selo",
+            "posta": "21226"
+        },
+        {
+            "id": "0039",
+            "name": "Badnjevac",
+            "posta": "34226"
+        },
+        {
+            "id": "0040",
+            "name": "Badovinci",
+            "posta": "15358"
+        },
+        {
+            "id": "0041",
+            "name": "Bagrdan",
+            "posta": "35204"
+        },
+        {
+            "id": "0042",
+            "name": "Bajina Bašta",
+            "posta": "31250"
+        },
+        {
+            "id": "0043",
+            "name": "Bajmok",
+            "posta": "24210"
+        },
+        {
+            "id": "0044",
+            "name": "Bajsa",
+            "posta": "24331"
+        },
+        {
+            "id": "0045",
+            "name": "Balajinac",
+            "posta": "18257"
+        },
+        {
+            "id": "0046",
+            "name": "Baljevac Na Ibru",
+            "posta": "36344"
+        },
+        {
+            "id": "0047",
+            "name": "Banatska Palanka",
+            "posta": "26324"
+        },
+        {
+            "id": "0048",
+            "name": "Banatsko Aranđelovo",
+            "posta": "23332"
+        },
+        {
+            "id": "0049",
+            "name": "Banatski Brestovac",
+            "posta": "26234"
+        },
+        {
+            "id": "0050",
+            "name": "Banatski Despotovac",
+            "posta": "23242"
+        },
+        {
+            "id": "0051",
+            "name": "Banatsko Karađorđevo",
+            "posta": "23216"
+        },
+        {
+            "id": "0052",
+            "name": "Banatsko Novo Selo",
+            "posta": "26314"
+        },
+        {
+            "id": "0053",
+            "name": "Banatska Subotica",
+            "posta": "26327"
+        },
+        {
+            "id": "0054",
+            "name": "Banatsko Visnjicevo",
+            "posta": "23237"
+        },
+        {
+            "id": "0055",
+            "name": "Banatska Dubica",
+            "posta": "23251"
+        },
+        {
+            "id": "0056",
+            "name": "Banatska Topola",
+            "posta": "23315"
+        },
+        {
+            "id": "0057",
+            "name": "Banatski Dvor",
+            "posta": "23213"
+        },
+        {
+            "id": "0058",
+            "name": "Banatski Karlovac",
+            "posta": "26320"
+        },
+        {
+            "id": "0059",
+            "name": "Banatsko Veliko Selo",
+            "posta": "23312"
+        },
+        {
+            "id": "0060",
+            "name": "Banicina",
+            "posta": "11424"
+        },
+        {
+            "id": "0061",
+            "name": "Banja",
+            "posta": "34304"
+        },
+        {
+            "id": "0062",
+            "name": "Banja Kod Priboja",
+            "posta": "31337"
+        },
+        {
+            "id": "0063",
+            "name": "Banja Koviljaca",
+            "posta": "15316"
+        },
+        {
+            "id": "0064",
+            "name": "Banjani",
+            "posta": "14214"
+        },
+        {
+            "id": "0065",
+            "name": "Banjska",
+            "posta": "38216"
+        },
+        {
+            "id": "0066",
+            "name": "Banostor",
+            "posta": "21312"
+        },
+        {
+            "id": "0067",
+            "name": "Banovci Dunav",
+            "posta": "22303"
+        },
+        {
+            "id": "0068",
+            "name": "Banovo Polje",
+            "posta": "15362"
+        },
+        {
+            "id": "0069",
+            "name": "Barajevo",
+            "posta": "11460"
+        },
+        {
+            "id": "0070",
+            "name": "Baranda",
+            "posta": "26205"
+        },
+        {
+            "id": "0071",
+            "name": "Barbatovac",
+            "posta": "18426"
+        },
+        {
+            "id": "0072",
+            "name": "Bare",
+            "posta": "34205"
+        },
+        {
+            "id": "0073",
+            "name": "Baric",
+            "posta": "11504"
+        },
+        {
+            "id": "0074",
+            "name": "Barice",
+            "posta": "26367"
+        },
+        {
+            "id": "0075",
+            "name": "Barlovo",
+            "posta": "18432"
+        },
+        {
+            "id": "0076",
+            "name": "Barosevac",
+            "posta": "11565"
+        },
+        {
+            "id": "0077",
+            "name": "Basaid",
+            "posta": "23316"
+        },
+        {
+            "id": "0078",
+            "name": "Batocina",
+            "posta": "34227"
+        },
+        {
+            "id": "0079",
+            "name": "Batrovci",
+            "posta": "22251"
+        },
+        {
+            "id": "0080",
+            "name": "Bavaniste",
+            "posta": "26222"
+        },
+        {
+            "id": "0081",
+            "name": "Bečej",
+            "posta": "21220"
+        },
+        {
+            "id": "0082",
+            "name": "Becmen",
+            "posta": "11279"
+        },
+        {
+            "id": "0083",
+            "name": "Begaljica",
+            "posta": "11308"
+        },
+        {
+            "id": "0084",
+            "name": "Begeč",
+            "posta": "21411"
+        },
+        {
+            "id": "0085",
+            "name": "Begejci",
+            "posta": "23232"
+        },
+        {
+            "id": "0086",
+            "name": "Bela Crkva",
+            "posta": "26340"
+        },
+        {
+            "id": "0087",
+            "name": "Bela Crkva (kod Krupnja)",
+            "posta": "15313"
+        },
+        {
+            "id": "0088",
+            "name": "Bela Palanka",
+            "posta": "18310"
+        },
+        {
+            "id": "0089",
+            "name": "Bela Voda",
+            "posta": "37253"
+        },
+        {
+            "id": "0090",
+            "name": "Bela Zemlja",
+            "posta": "31311"
+        },
+        {
+            "id": "0091",
+            "name": "Belanovica",
+            "posta": "14246"
+        },
+        {
+            "id": "0092",
+            "name": "Bele Vode",
+            "posta": "32259"
+        },
+        {
+            "id": "0093",
+            "name": "Belegiš",
+            "posta": "22306"
+        },
+        {
+            "id": "0094",
+            "name": "Beli Potok",
+            "posta": "11223"
+        },
+        {
+            "id": "0095",
+            "name": "Beli Potok (kod Svrljiga)",
+            "posta": "19366"
+        },
+        {
+            "id": "0096",
+            "name": "Beljina",
+            "posta": "11461"
+        },
+        {
+            "id": "0097",
+            "name": "Belo Blato",
+            "posta": "23205"
+        },
+        {
+            "id": "0098",
+            "name": "Beloljin",
+            "posta": "18424"
+        },
+        {
+            "id": "0099",
+            "name": "Belosavci",
+            "posta": "34312"
+        },
+        {
+            "id": "0100",
+            "name": "Belotinac",
+            "posta": "18411"
+        },
+        {
+            "id": "0101",
+            "name": "Belusic",
+            "posta": "35263"
+        },
+        {
+            "id": "0102",
+            "name": "Beocin",
+            "posta": "21300"
+        },
+        {
+            "id": "0103",
+            "name": "Beograd",
+            "posta": "11000"
+        },
+        {
+            "id": "0104",
+            "name": "Berkasovo",
+            "posta": "22242"
+        },
+        {
+            "id": "0105",
+            "name": "Beršići",
+            "posta": "32305"
+        },
+        {
+            "id": "0106",
+            "name": "Besenovo",
+            "posta": "22212"
+        },
+        {
+            "id": "0107",
+            "name": "Beška",
+            "posta": "22324"
+        },
+        {
+            "id": "0108",
+            "name": "Bezdan",
+            "posta": "25270"
+        },
+        {
+            "id": "0109",
+            "name": "Bigrenica",
+            "posta": "35238"
+        },
+        {
+            "id": "0110",
+            "name": "Bikic Do",
+            "posta": "22254"
+        },
+        {
+            "id": "0111",
+            "name": "Bikovo",
+            "posta": "24206"
+        },
+        {
+            "id": "0112",
+            "name": "Biljaca",
+            "posta": "17522"
+        },
+        {
+            "id": "0113",
+            "name": "Bingula",
+            "posta": "22253"
+        },
+        {
+            "id": "0114",
+            "name": "Bioska",
+            "posta": "31241"
+        },
+        {
+            "id": "0115",
+            "name": "Bistar",
+            "posta": "17546"
+        },
+        {
+            "id": "0116",
+            "name": "Bistrica",
+            "posta": "31325"
+        },
+        {
+            "id": "0117",
+            "name": "Blace",
+            "posta": "18420"
+        },
+        {
+            "id": "0118",
+            "name": "Blazevo",
+            "posta": "37226"
+        },
+        {
+            "id": "0119",
+            "name": "Bobovo",
+            "posta": "35217"
+        },
+        {
+            "id": "0120",
+            "name": "Bocar",
+            "posta": "23274"
+        },
+        {
+            "id": "0121",
+            "name": "Bođani",
+            "posta": "21427"
+        },
+        {
+            "id": "0122",
+            "name": "Bogaraš",
+            "posta": "24408"
+        },
+        {
+            "id": "0123",
+            "name": "Bogatić",
+            "posta": "15350"
+        },
+        {
+            "id": "0124",
+            "name": "Bogojevo",
+            "posta": "25245"
+        },
+        {
+            "id": "0125",
+            "name": "Bogovađa",
+            "posta": "14225"
+        },
+        {
+            "id": "0126",
+            "name": "Bogovina",
+            "posta": "19372"
+        },
+        {
+            "id": "0127",
+            "name": "Bogutovac",
+            "posta": "36341"
+        },
+        {
+            "id": "0128",
+            "name": "Bojnik",
+            "posta": "16205"
+        },
+        {
+            "id": "0129",
+            "name": "Boka",
+            "posta": "23252"
+        },
+        {
+            "id": "0130",
+            "name": "Boleč",
+            "posta": "11307"
+        },
+        {
+            "id": "0131",
+            "name": "Boljevac",
+            "posta": "19370"
+        },
+        {
+            "id": "0132",
+            "name": "Boljevci",
+            "posta": "11275"
+        },
+        {
+            "id": "0133",
+            "name": "Boljkovci",
+            "posta": "32312"
+        },
+        {
+            "id": "0134",
+            "name": "Bor",
+            "posta": "19210"
+        },
+        {
+            "id": "0135",
+            "name": "Borča",
+            "posta": "11211"
+        },
+        {
+            "id": "0136",
+            "name": "Borski Brestovac",
+            "posta": "19229"
+        },
+        {
+            "id": "0137",
+            "name": "Borsko Bucje",
+            "posta": "19231"
+        },
+        {
+            "id": "0138",
+            "name": "Bosilegrad",
+            "posta": "17540"
+        },
+        {
+            "id": "0139",
+            "name": "Bošnjace",
+            "posta": "16232"
+        },
+        {
+            "id": "0140",
+            "name": "Bošnjane",
+            "posta": "37262"
+        },
+        {
+            "id": "0141",
+            "name": "Bosut",
+            "posta": "22217"
+        },
+        {
+            "id": "0142",
+            "name": "Botoš",
+            "posta": "23243"
+        },
+        {
+            "id": "0143",
+            "name": "Božetići",
+            "posta": "31322"
+        },
+        {
+            "id": "0144",
+            "name": "Boževac",
+            "posta": "12313"
+        },
+        {
+            "id": "0145",
+            "name": "Božica",
+            "posta": "17537"
+        },
+        {
+            "id": "0146",
+            "name": "Braćevac",
+            "posta": "19315"
+        },
+        {
+            "id": "0147",
+            "name": "Bradarac",
+            "posta": "12206"
+        },
+        {
+            "id": "0148",
+            "name": "Braničevo",
+            "posta": "12222"
+        },
+        {
+            "id": "0149",
+            "name": "Brankovina",
+            "posta": "14201"
+        },
+        {
+            "id": "0150",
+            "name": "Bratinac",
+            "posta": "12225"
+        },
+        {
+            "id": "0151",
+            "name": "Bratljevo",
+            "posta": "32256"
+        },
+        {
+            "id": "0152",
+            "name": "Brđani",
+            "posta": "32303"
+        },
+        {
+            "id": "0153",
+            "name": "Brekovo",
+            "posta": "31234"
+        },
+        {
+            "id": "0154",
+            "name": "Bresnica",
+            "posta": "32213"
+        },
+        {
+            "id": "0155",
+            "name": "Brestac",
+            "posta": "22415"
+        },
+        {
+            "id": "0156",
+            "name": "Brestovacka Banja",
+            "posta": "19216"
+        },
+        {
+            "id": "0157",
+            "name": "Brestovac",
+            "posta": "16253"
+        },
+        {
+            "id": "0158",
+            "name": "Brezane",
+            "posta": "12205"
+        },
+        {
+            "id": "0159",
+            "name": "Brezde",
+            "posta": "14244"
+        },
+        {
+            "id": "0160",
+            "name": "Brezjak",
+            "posta": "15309"
+        },
+        {
+            "id": "0161",
+            "name": "Brezna",
+            "posta": "32307"
+        },
+        {
+            "id": "0162",
+            "name": "Brezova",
+            "posta": "32253"
+        },
+        {
+            "id": "0163",
+            "name": "Brezovica",
+            "posta": "38157"
+        },
+        {
+            "id": "0164",
+            "name": "Brgule",
+            "posta": "14212"
+        },
+        {
+            "id": "0165",
+            "name": "Brnjica",
+            "posta": "12230"
+        },
+        {
+            "id": "0166",
+            "name": "Brodarevo",
+            "posta": "31305"
+        },
+        {
+            "id": "0167",
+            "name": "Brus",
+            "posta": "37220"
+        },
+        {
+            "id": "0168",
+            "name": "Brusnik",
+            "posta": "19313"
+        },
+        {
+            "id": "0169",
+            "name": "Brvenik",
+            "posta": "36346"
+        },
+        {
+            "id": "0170",
+            "name": "Brza Palanka",
+            "posta": "19323"
+        },
+        {
+            "id": "0171",
+            "name": "Brzan",
+            "posta": "34228"
+        },
+        {
+            "id": "0172",
+            "name": "Brzeće",
+            "posta": "37225"
+        },
+        {
+            "id": "0173",
+            "name": "Bučje",
+            "posta": "19369"
+        },
+        {
+            "id": "0174",
+            "name": "Buđanovci",
+            "posta": "22421"
+        },
+        {
+            "id": "0175",
+            "name": "Budisava",
+            "posta": "21242"
+        },
+        {
+            "id": "0176",
+            "name": "Bujanovac",
+            "posta": "17520"
+        },
+        {
+            "id": "0177",
+            "name": "Bukovac",
+            "posta": "21209"
+        },
+        {
+            "id": "0178",
+            "name": "Bukovica",
+            "posta": "32251"
+        },
+        {
+            "id": "0179",
+            "name": "Bukovik",
+            "posta": "34301"
+        },
+        {
+            "id": "0180",
+            "name": "Bukurovac",
+            "posta": "34217"
+        },
+        {
+            "id": "0181",
+            "name": "Bumbarevo Brdo",
+            "posta": "34242"
+        },
+        {
+            "id": "0182",
+            "name": "Bunar",
+            "posta": "35273"
+        },
+        {
+            "id": "0183",
+            "name": "Burdimo",
+            "posta": "18368"
+        },
+        {
+            "id": "0184",
+            "name": "Burovac",
+            "posta": "12307"
+        },
+        {
+            "id": "0185",
+            "name": "Busilovac",
+            "posta": "35249"
+        },
+        {
+            "id": "0186",
+            "name": "Cerovac",
+            "posta": "15224"
+        },
+        {
+            "id": "0187",
+            "name": "Crepaja",
+            "posta": "26213"
+        },
+        {
+            "id": "0188",
+            "name": "Crkvine",
+            "posta": "36321"
+        },
+        {
+            "id": "0189",
+            "name": "Crna Bara",
+            "posta": "23328"
+        },
+        {
+            "id": "0190",
+            "name": "Crna Bara",
+            "posta": "15355"
+        },
+        {
+            "id": "0191",
+            "name": "Crna Trava",
+            "posta": "16215"
+        },
+        {
+            "id": "0192",
+            "name": "Crnoklište",
+            "posta": "18304"
+        },
+        {
+            "id": "0193",
+            "name": "Crvena Crkva",
+            "posta": "26323"
+        },
+        {
+            "id": "0194",
+            "name": "Crvena Reka",
+            "posta": "18313"
+        },
+        {
+            "id": "0195",
+            "name": "Crvenka",
+            "posta": "25220"
+        },
+        {
+            "id": "0196",
+            "name": "Čačak",
+            "posta": "32000"
+        },
+        {
+            "id": "0197",
+            "name": "Čajetina",
+            "posta": "31310"
+        },
+        {
+            "id": "0198",
+            "name": "Čalma",
+            "posta": "22231"
+        },
+        {
+            "id": "0199",
+            "name": "Čantavir",
+            "posta": "24220"
+        },
+        {
+            "id": "0200",
+            "name": "Čecina",
+            "posta": "18417"
+        },
+        {
+            "id": "0201",
+            "name": "Čelarevo",
+            "posta": "21413"
+        },
+        {
+            "id": "0202",
+            "name": "Čenej",
+            "posta": "21233"
+        },
+        {
+            "id": "0203",
+            "name": "Čenta",
+            "posta": "23266"
+        },
+        {
+            "id": "0204",
+            "name": "Čerević",
+            "posta": "21311"
+        },
+        {
+            "id": "0205",
+            "name": "Čestereg",
+            "posta": "23215"
+        },
+        {
+            "id": "0206",
+            "name": "Čitluk (kod Kruševca)",
+            "posta": "37208"
+        },
+        {
+            "id": "0207",
+            "name": "Čitluk (kod Soko Banje)",
+            "posta": "18232"
+        },
+        {
+            "id": "0208",
+            "name": "Čoka",
+            "posta": "23320"
+        },
+        {
+            "id": "0209",
+            "name": "Čonoplja",
+            "posta": "25210"
+        },
+        {
+            "id": "0210",
+            "name": "Čortanovci",
+            "posta": "22326"
+        },
+        {
+            "id": "0211",
+            "name": "Čurug",
+            "posta": "21238"
+        },
+        {
+            "id": "0212",
+            "name": "Čukojevac",
+            "posta": "36220"
+        },
+        {
+            "id": "0213",
+            "name": "Čumić",
+            "posta": "34322"
+        },
+        {
+            "id": "0214",
+            "name": "Ćićevac",
+            "posta": "37210"
+        },
+        {
+            "id": "0215",
+            "name": "Ćuprija",
+            "posta": "35230"
+        },
+        {
+            "id": "0216",
+            "name": "Darosava",
+            "posta": "34305"
+        },
+        {
+            "id": "0217",
+            "name": "Dasnica",
+            "posta": "37271"
+        },
+        {
+            "id": "0218",
+            "name": "Debeljača",
+            "posta": "26214"
+        },
+        {
+            "id": "0219",
+            "name": "Debrc",
+            "posta": "15214"
+        },
+        {
+            "id": "0220",
+            "name": "Deč",
+            "posta": "22441"
+        },
+        {
+            "id": "0221",
+            "name": "Deliblato",
+            "posta": "26225"
+        },
+        {
+            "id": "0222",
+            "name": "Delimede",
+            "posta": "36307"
+        },
+        {
+            "id": "0223",
+            "name": "Deronje",
+            "posta": "25254"
+        },
+        {
+            "id": "0224",
+            "name": "Desimirovac",
+            "posta": "34321"
+        },
+        {
+            "id": "0225",
+            "name": "Despotovac",
+            "posta": "35213"
+        },
+        {
+            "id": "0226",
+            "name": "Despotovo",
+            "posta": "21468"
+        },
+        {
+            "id": "0227",
+            "name": "Devojački Bunar",
+            "posta": "26316"
+        },
+        {
+            "id": "0228",
+            "name": "Deževa",
+            "posta": "36305"
+        },
+        {
+            "id": "0229",
+            "name": "Dimitrovgrad",
+            "posta": "18320"
+        },
+        {
+            "id": "0230",
+            "name": "Divci",
+            "posta": "14222"
+        },
+        {
+            "id": "0231",
+            "name": "Divčibare",
+            "posta": "14204"
+        },
+        {
+            "id": "0232",
+            "name": "Divljaka",
+            "posta": "31236"
+        },
+        {
+            "id": "0233",
+            "name": "Divoš",
+            "posta": "22232"
+        },
+        {
+            "id": "0234",
+            "name": "Divostin",
+            "posta": "34204"
+        },
+        {
+            "id": "0235",
+            "name": "Dobanovci",
+            "posta": "11272"
+        },
+        {
+            "id": "0236",
+            "name": "Dobra",
+            "posta": "12224"
+        },
+        {
+            "id": "0237",
+            "name": "Dobri Do",
+            "posta": "18408"
+        },
+        {
+            "id": "0238",
+            "name": "Dobrić",
+            "posta": "15235"
+        },
+        {
+            "id": "0239",
+            "name": "Dobrica",
+            "posta": "26354"
+        },
+        {
+            "id": "0240",
+            "name": "Dobrinci",
+            "posta": "22412"
+        },
+        {
+            "id": "0241",
+            "name": "Dolac",
+            "posta": "18314"
+        },
+        {
+            "id": "0242",
+            "name": "Doljevac",
+            "posta": "18410"
+        },
+        {
+            "id": "0243",
+            "name": "Dolovo",
+            "posta": "26227"
+        },
+        {
+            "id": "0244",
+            "name": "Donja Bela Reka",
+            "posta": "19213"
+        },
+        {
+            "id": "0245",
+            "name": "Donja Borina",
+            "posta": "15317"
+        },
+        {
+            "id": "0246",
+            "name": "Donja Kamenica",
+            "posta": "19352"
+        },
+        {
+            "id": "0247",
+            "name": "Donja Livadica",
+            "posta": "11326"
+        },
+        {
+            "id": "0248",
+            "name": "Donja Ljubata",
+            "posta": "17544"
+        },
+        {
+            "id": "0249",
+            "name": "Donja Mutnica",
+            "posta": "35255"
+        },
+        {
+            "id": "0250",
+            "name": "Donja Orovica",
+            "posta": "15323"
+        },
+        {
+            "id": "0251",
+            "name": "Donja Rečica",
+            "posta": "18404"
+        },
+        {
+            "id": "0252",
+            "name": "Donja Šatornja",
+            "posta": "34314"
+        },
+        {
+            "id": "0253",
+            "name": "Donja Trnava",
+            "posta": "18421"
+        },
+        {
+            "id": "0254",
+            "name": "Donje Vidovo",
+            "posta": "35258"
+        },
+        {
+            "id": "0255",
+            "name": "Donje Crnatovo",
+            "posta": "18414"
+        },
+        {
+            "id": "0256",
+            "name": "Donje Crniljevo",
+            "posta": "15227"
+        },
+        {
+            "id": "0257",
+            "name": "Donje Medurovo",
+            "posta": "18254"
+        },
+        {
+            "id": "0258",
+            "name": "Donje Tlamino",
+            "posta": "17547"
+        },
+        {
+            "id": "0259",
+            "name": "Donje Zuniče",
+            "posta": "19345"
+        },
+        {
+            "id": "0260",
+            "name": "Donji Dušnik",
+            "posta": "18242"
+        },
+        {
+            "id": "0261",
+            "name": "Donji Krčin",
+            "posta": "37258"
+        },
+        {
+            "id": "0262",
+            "name": "Donji Milanovac",
+            "posta": "19220"
+        },
+        {
+            "id": "0263",
+            "name": "Donji Stajevac",
+            "posta": "17526"
+        },
+        {
+            "id": "0264",
+            "name": "Doroslovo",
+            "posta": "25243"
+        },
+        {
+            "id": "0265",
+            "name": "Dračić",
+            "posta": "14203"
+        },
+        {
+            "id": "0266",
+            "name": "Draginac",
+            "posta": "15311"
+        },
+        {
+            "id": "0267",
+            "name": "Draginje",
+            "posta": "15226"
+        },
+        {
+            "id": "0268",
+            "name": "Draglica",
+            "posta": "31317"
+        },
+        {
+            "id": "0269",
+            "name": "Dragobraca",
+            "posta": "34231"
+        },
+        {
+            "id": "0270",
+            "name": "Dragocvet",
+            "posta": "35272"
+        },
+        {
+            "id": "0271",
+            "name": "Dragoševac",
+            "posta": "35262"
+        },
+        {
+            "id": "0272",
+            "name": "Dragovo",
+            "posta": "35265"
+        },
+        {
+            "id": "0273",
+            "name": "Drajkovce",
+            "posta": "38239"
+        },
+        {
+            "id": "0274",
+            "name": "Draževac",
+            "posta": "11506"
+        },
+        {
+            "id": "0275",
+            "name": "Draževac (kod Aleksinca)",
+            "posta": "18223"
+        },
+        {
+            "id": "0276",
+            "name": "Drenovac",
+            "posta": "15212"
+        },
+        {
+            "id": "0277",
+            "name": "Drenovac (kod Paraćina)",
+            "posta": "35257"
+        },
+        {
+            "id": "0278",
+            "name": "Drlače",
+            "posta": "15324"
+        },
+        {
+            "id": "0279",
+            "name": "Drugovac",
+            "posta": "11432"
+        },
+        {
+            "id": "0280",
+            "name": "Dublje",
+            "posta": "15359"
+        },
+        {
+            "id": "0281",
+            "name": "Duboka",
+            "posta": "12255"
+        },
+        {
+            "id": "0282",
+            "name": "Dubovac",
+            "posta": "26224"
+        },
+        {
+            "id": "0283",
+            "name": "Dubovo",
+            "posta": "18406"
+        },
+        {
+            "id": "0284",
+            "name": "Dubravica",
+            "posta": "12207"
+        },
+        {
+            "id": "0285",
+            "name": "Dudovica",
+            "posta": "11561"
+        },
+        {
+            "id": "0286",
+            "name": "Duga Poljana",
+            "posta": "36312"
+        },
+        {
+            "id": "0287",
+            "name": "Dugo Polje",
+            "posta": "18237"
+        },
+        {
+            "id": "0288",
+            "name": "Dušanovac",
+            "posta": "19335"
+        },
+        {
+            "id": "0289",
+            "name": "Dupljaja",
+            "posta": "26328"
+        },
+        {
+            "id": "0290",
+            "name": "Dvorane",
+            "posta": "37206"
+        },
+        {
+            "id": "0291",
+            "name": "Džep",
+            "posta": "17514"
+        },
+        {
+            "id": "0292",
+            "name": "Džigolj",
+            "posta": "18405"
+        },
+        {
+            "id": "0293",
+            "name": "Đala",
+            "posta": "23335"
+        },
+        {
+            "id": "0294",
+            "name": "Đeneral Janković",
+            "posta": "38238"
+        },
+        {
+            "id": "0295",
+            "name": "Đunis",
+            "posta": "37202"
+        },
+        {
+            "id": "0296",
+            "name": "Đurđevo",
+            "posta": "21239"
+        },
+        {
+            "id": "0297",
+            "name": "Đurđevo (kod Kragujevca)",
+            "posta": "34215"
+        },
+        {
+            "id": "0298",
+            "name": "Đurđin",
+            "posta": "24213"
+        },
+        {
+            "id": "0299",
+            "name": "Ečka",
+            "posta": "23203"
+        },
+        {
+            "id": "0300",
+            "name": "Elemir",
+            "posta": "23208"
+        },
+        {
+            "id": "0301",
+            "name": "Erdeč",
+            "posta": "34207"
+        },
+        {
+            "id": "0302",
+            "name": "Erdevik",
+            "posta": "22230"
+        },
+        {
+            "id": "0303",
+            "name": "Farkaždin",
+            "posta": "23264"
+        },
+        {
+            "id": "0304",
+            "name": "Feketić",
+            "posta": "24323"
+        },
+        {
+            "id": "0305",
+            "name": "Futog",
+            "posta": "21410"
+        },
+        {
+            "id": "0306",
+            "name": "Gadžin Han",
+            "posta": "18240"
+        },
+        {
+            "id": "0307",
+            "name": "Gaj",
+            "posta": "26223"
+        },
+        {
+            "id": "0308",
+            "name": "Gajdobra",
+            "posta": "21432"
+        },
+        {
+            "id": "0309",
+            "name": "Gakovo",
+            "posta": "25282"
+        },
+        {
+            "id": "0310",
+            "name": "Gamzigradska Banja",
+            "posta": "19228"
+        },
+        {
+            "id": "0311",
+            "name": "Gardinovci",
+            "posta": "21247"
+        },
+        {
+            "id": "0312",
+            "name": "Gibarac",
+            "posta": "22258"
+        },
+        {
+            "id": "0313",
+            "name": "Glavinci",
+            "posta": "35261"
+        },
+        {
+            "id": "0314",
+            "name": "Globoder",
+            "posta": "37251"
+        },
+        {
+            "id": "0315",
+            "name": "Glogonj",
+            "posta": "26202"
+        },
+        {
+            "id": "0316",
+            "name": "Glogovac",
+            "posta": "35222"
+        },
+        {
+            "id": "0317",
+            "name": "Gložan",
+            "posta": "21412"
+        },
+        {
+            "id": "0318",
+            "name": "Glušci",
+            "posta": "15356"
+        },
+        {
+            "id": "0319",
+            "name": "Golobok",
+            "posta": "11316"
+        },
+        {
+            "id": "0320",
+            "name": "Golubac",
+            "posta": "12223"
+        },
+        {
+            "id": "0321",
+            "name": "Golubinci",
+            "posta": "22308"
+        },
+        {
+            "id": "0322",
+            "name": "Goračići",
+            "posta": "32232"
+        },
+        {
+            "id": "0323",
+            "name": "Goričani",
+            "posta": "32225"
+        },
+        {
+            "id": "0324",
+            "name": "Gornja Dobrinja",
+            "posta": "31214"
+        },
+        {
+            "id": "0325",
+            "name": "Gornja Draguša",
+            "posta": "18425"
+        },
+        {
+            "id": "0326",
+            "name": "Gornja Lisina",
+            "posta": "17538"
+        },
+        {
+            "id": "0327",
+            "name": "Gornja Sabanta",
+            "posta": "34206"
+        },
+        {
+            "id": "0328",
+            "name": "Gornja Toplica",
+            "posta": "14243"
+        },
+        {
+            "id": "0329",
+            "name": "Gornja Toponica",
+            "posta": "18202"
+        },
+        {
+            "id": "0330",
+            "name": "Gornja Trepča",
+            "posta": "32215"
+        },
+        {
+            "id": "0331",
+            "name": "Gornji Banjani",
+            "posta": "32306"
+        },
+        {
+            "id": "0332",
+            "name": "Gornji Barbeš",
+            "posta": "18241"
+        },
+        {
+            "id": "0333",
+            "name": "Gornji Breg",
+            "posta": "24406"
+        },
+        {
+            "id": "0334",
+            "name": "Gornji Brestovac",
+            "posta": "16244"
+        },
+        {
+            "id": "0335",
+            "name": "Gornji Milanovac",
+            "posta": "32300"
+        },
+        {
+            "id": "0336",
+            "name": "Gornji Matejevac",
+            "posta": "18204"
+        },
+        {
+            "id": "0337",
+            "name": "Gornji Stepos",
+            "posta": "37221"
+        },
+        {
+            "id": "0338",
+            "name": "Gornji Stupanj",
+            "posta": "37234"
+        },
+        {
+            "id": "0339",
+            "name": "Gospođinci",
+            "posta": "21237"
+        },
+        {
+            "id": "0340",
+            "name": "Gostilje",
+            "posta": "31313"
+        },
+        {
+            "id": "0341",
+            "name": "Grabovac",
+            "posta": "11508"
+        },
+        {
+            "id": "0342",
+            "name": "Grabovci",
+            "posta": "22423"
+        },
+        {
+            "id": "0343",
+            "name": "Gracanica",
+            "posta": "38205"
+        },
+        {
+            "id": "0344",
+            "name": "Gradina",
+            "posta": "18321"
+        },
+        {
+            "id": "0345",
+            "name": "Gradskovo",
+            "posta": "19205"
+        },
+        {
+            "id": "0346",
+            "name": "Graševci",
+            "posta": "37229"
+        },
+        {
+            "id": "0347",
+            "name": "Grdelica",
+            "posta": "16220"
+        },
+        {
+            "id": "0348",
+            "name": "Grebenac",
+            "posta": "26347"
+        },
+        {
+            "id": "0349",
+            "name": "Gredetin",
+            "posta": "18213"
+        },
+        {
+            "id": "0350",
+            "name": "Grejač",
+            "posta": "18219"
+        },
+        {
+            "id": "0351",
+            "name": "Grgurevci",
+            "posta": "22213"
+        },
+        {
+            "id": "0352",
+            "name": "Grlište",
+            "posta": "19342"
+        },
+        {
+            "id": "0353",
+            "name": "Grljan",
+            "posta": "19341"
+        },
+        {
+            "id": "0354",
+            "name": "Grocka",
+            "posta": "11306"
+        },
+        {
+            "id": "0355",
+            "name": "Grošnica",
+            "posta": "34202"
+        },
+        {
+            "id": "0356",
+            "name": "Gruža",
+            "posta": "34230"
+        },
+        {
+            "id": "0357",
+            "name": "Guberevac",
+            "posta": "34232"
+        },
+        {
+            "id": "0358",
+            "name": "Guča",
+            "posta": "32230"
+        },
+        {
+            "id": "0359",
+            "name": "Gudurica",
+            "posta": "26335"
+        },
+        {
+            "id": "0360",
+            "name": "Gunaroš",
+            "posta": "24312"
+        },
+        {
+            "id": "0361",
+            "name": "Guševac",
+            "posta": "18208"
+        },
+        {
+            "id": "0362",
+            "name": "Gušterica",
+            "posta": "38209"
+        },
+        {
+            "id": "0363",
+            "name": "Hajdučica",
+            "posta": "26370"
+        },
+        {
+            "id": "0364",
+            "name": "Hajdukovo",
+            "posta": "24414"
+        },
+        {
+            "id": "0365",
+            "name": "Halovo",
+            "posta": "19236"
+        },
+        {
+            "id": "0366",
+            "name": "Hetin",
+            "posta": "23235"
+        },
+        {
+            "id": "0367",
+            "name": "Horgoš",
+            "posta": "24410"
+        },
+        {
+            "id": "0368",
+            "name": "Horgoš Granični Prelaz",
+            "posta": "24411"
+        },
+        {
+            "id": "0369",
+            "name": "Hrtkovci",
+            "posta": "22427"
+        },
+        {
+            "id": "0370",
+            "name": "Iđoš",
+            "posta": "23323"
+        },
+        {
+            "id": "0371",
+            "name": "Idvor",
+            "posta": "26207"
+        },
+        {
+            "id": "0372",
+            "name": "Ilandža",
+            "posta": "26352"
+        },
+        {
+            "id": "0373",
+            "name": "Ilićevo",
+            "posta": "34203"
+        },
+        {
+            "id": "0374",
+            "name": "Ilinci",
+            "posta": "22250"
+        },
+        {
+            "id": "0375",
+            "name": "Inđija",
+            "posta": "22320"
+        },
+        {
+            "id": "0376",
+            "name": "Irig",
+            "posta": "22406"
+        },
+        {
+            "id": "0377",
+            "name": "Iriški Venac",
+            "posta": "22407"
+        },
+        {
+            "id": "0378",
+            "name": "Ivanjica",
+            "posta": "32250"
+        },
+        {
+            "id": "0379",
+            "name": "Ivanovo",
+            "posta": "26233"
+        },
+        {
+            "id": "0380",
+            "name": "Izbište",
+            "posta": "26343"
+        },
+        {
+            "id": "0381",
+            "name": "Jablanica",
+            "posta": "31314"
+        },
+        {
+            "id": "0382",
+            "name": "Jabučje",
+            "posta": "14226"
+        },
+        {
+            "id": "0383",
+            "name": "Jabuka",
+            "posta": "31306"
+        },
+        {
+            "id": "0384",
+            "name": "Jabukovac",
+            "posta": "19304"
+        },
+        {
+            "id": "0385",
+            "name": "Jadranska Lešnica",
+            "posta": "15308"
+        },
+        {
+            "id": "0386",
+            "name": "Jagnjilo",
+            "posta": "11412"
+        },
+        {
+            "id": "0387",
+            "name": "Jagodina",
+            "posta": "35000"
+        },
+        {
+            "id": "0388",
+            "name": "Jakovo",
+            "posta": "11276"
+        },
+        {
+            "id": "0389",
+            "name": "Jamena",
+            "posta": "22248"
+        },
+        {
+            "id": "0390",
+            "name": "Janošik",
+            "posta": "26362"
+        },
+        {
+            "id": "0391",
+            "name": "Jarak",
+            "posta": "22426"
+        },
+        {
+            "id": "0392",
+            "name": "Jarkovac",
+            "posta": "23250"
+        },
+        {
+            "id": "0393",
+            "name": "Jarmenovci",
+            "posta": "34318"
+        },
+        {
+            "id": "0394",
+            "name": "Jaša Tomić",
+            "posta": "23230"
+        },
+        {
+            "id": "0395",
+            "name": "Jasenovo",
+            "posta": "26346"
+        },
+        {
+            "id": "0396",
+            "name": "Jasenovo (kod Nove Varoši)",
+            "posta": "31319"
+        },
+        {
+            "id": "0397",
+            "name": "Jasenovo (kod Despotovca)",
+            "posta": "35241"
+        },
+        {
+            "id": "0398",
+            "name": "Jasika",
+            "posta": "37252"
+        },
+        {
+            "id": "0399",
+            "name": "Jazak",
+            "posta": "22409"
+        },
+        {
+            "id": "0400",
+            "name": "Jazovo",
+            "posta": "23327"
+        },
+        {
+            "id": "0401",
+            "name": "Jelašnica",
+            "posta": "18206"
+        },
+        {
+            "id": "0402",
+            "name": "Jelašnica",
+            "posta": "17531"
+        },
+        {
+            "id": "0403",
+            "name": "Jelen Do",
+            "posta": "31215"
+        },
+        {
+            "id": "0404",
+            "name": "Jelovik",
+            "posta": "34309"
+        },
+        {
+            "id": "0405",
+            "name": "Jermenovci",
+            "posta": "26363"
+        },
+        {
+            "id": "0406",
+            "name": "Ježevica",
+            "posta": "32222"
+        },
+        {
+            "id": "0407",
+            "name": "Ježevica (Užička)",
+            "posta": "31213"
+        },
+        {
+            "id": "0408",
+            "name": "Jošanica",
+            "posta": "18234"
+        },
+        {
+            "id": "0409",
+            "name": "Jošanicka Banja",
+            "posta": "36345"
+        },
+        {
+            "id": "0410",
+            "name": "Jovac",
+            "posta": "35205"
+        },
+        {
+            "id": "0411",
+            "name": "Jugbogdanovac",
+            "posta": "18253"
+        },
+        {
+            "id": "0412",
+            "name": "Junkovac",
+            "posta": "11562"
+        },
+        {
+            "id": "0413",
+            "name": "Kać",
+            "posta": "21241"
+        },
+        {
+            "id": "0414",
+            "name": "Kačarevo",
+            "posta": "26212"
+        },
+        {
+            "id": "0415",
+            "name": "Kajtasovo",
+            "posta": "26329"
+        },
+        {
+            "id": "0416",
+            "name": "Kalna",
+            "posta": "19353"
+        },
+        {
+            "id": "0417",
+            "name": "Kaluđerske Bare",
+            "posta": "31257"
+        },
+        {
+            "id": "0418",
+            "name": "Kaluđerica",
+            "posta": "11130"
+        },
+        {
+            "id": "0419",
+            "name": "Kamenica (kod Čačka)",
+            "posta": "32206"
+        },
+        {
+            "id": "0420",
+            "name": "Kamenica (kod Dimitrovgrada)",
+            "posta": "18324"
+        },
+        {
+            "id": "0421",
+            "name": "Kamenica (Valjevska)",
+            "posta": "14252"
+        },
+        {
+            "id": "0422",
+            "name": "Kanjiža",
+            "posta": "24420"
+        },
+        {
+            "id": "0423",
+            "name": "Kaona",
+            "posta": "32234"
+        },
+        {
+            "id": "0424",
+            "name": "Kaonik",
+            "posta": "37256"
+        },
+        {
+            "id": "0425",
+            "name": "Karađorđevo",
+            "posta": "21421"
+        },
+        {
+            "id": "0426",
+            "name": "Karan",
+            "posta": "31204"
+        },
+        {
+            "id": "0427",
+            "name": "Karavukovo",
+            "posta": "25255"
+        },
+        {
+            "id": "0428",
+            "name": "Karlovčić",
+            "posta": "22443"
+        },
+        {
+            "id": "0429",
+            "name": "Katun",
+            "posta": "18225"
+        },
+        {
+            "id": "0430",
+            "name": "Kelebija",
+            "posta": "24104"
+        },
+        {
+            "id": "0431",
+            "name": "Kelebija Granični Prelaz",
+            "posta": "24205"
+        },
+        {
+            "id": "0432",
+            "name": "Kevi",
+            "posta": "24407"
+        },
+        {
+            "id": "0433",
+            "name": "Kikinda",
+            "posta": "23300"
+        },
+        {
+            "id": "0434",
+            "name": "Kisač",
+            "posta": "21211"
+        },
+        {
+            "id": "0435",
+            "name": "Kladovo",
+            "posta": "19320"
+        },
+        {
+            "id": "0436",
+            "name": "Klek",
+            "posta": "23211"
+        },
+        {
+            "id": "0437",
+            "name": "Klenak",
+            "posta": "22424"
+        },
+        {
+            "id": "0438",
+            "name": "Klenike",
+            "posta": "17524"
+        },
+        {
+            "id": "0439",
+            "name": "Klenje",
+            "posta": "15357"
+        },
+        {
+            "id": "0440",
+            "name": "Klenje (kod Golubca)",
+            "posta": "12258"
+        },
+        {
+            "id": "0441",
+            "name": "Kličevac",
+            "posta": "12209"
+        },
+        {
+            "id": "0442",
+            "name": "Klisura",
+            "posta": "17535"
+        },
+        {
+            "id": "0443",
+            "name": "Kljajićevo",
+            "posta": "25221"
+        },
+        {
+            "id": "0444",
+            "name": "Klokočevac",
+            "posta": "19222"
+        },
+        {
+            "id": "0445",
+            "name": "Knić",
+            "posta": "34240"
+        },
+        {
+            "id": "0446",
+            "name": "Knićanin",
+            "posta": "23265"
+        },
+        {
+            "id": "0447",
+            "name": "Knjaževac",
+            "posta": "19350"
+        },
+        {
+            "id": "0448",
+            "name": "Kobišnica",
+            "posta": "19316"
+        },
+        {
+            "id": "0449",
+            "name": "Koceljeva",
+            "posta": "15220"
+        },
+        {
+            "id": "0450",
+            "name": "Kokin Brod",
+            "posta": "31318"
+        },
+        {
+            "id": "0451",
+            "name": "Kolare",
+            "posta": "35242"
+        },
+        {
+            "id": "0452",
+            "name": "Kolari",
+            "posta": "11431"
+        },
+        {
+            "id": "0453",
+            "name": "Kolut",
+            "posta": "25274"
+        },
+        {
+            "id": "0454",
+            "name": "Komirić",
+            "posta": "14254"
+        },
+        {
+            "id": "0455",
+            "name": "Konak",
+            "posta": "23253"
+        },
+        {
+            "id": "0456",
+            "name": "Konarevo",
+            "posta": "36340"
+        },
+        {
+            "id": "0457",
+            "name": "Končarevo",
+            "posta": "35219"
+        },
+        {
+            "id": "0458",
+            "name": "Konjuh",
+            "posta": "37254"
+        },
+        {
+            "id": "0459",
+            "name": "Kopaonik",
+            "posta": "36354"
+        },
+        {
+            "id": "0460",
+            "name": "Koprivnica",
+            "posta": "19223"
+        },
+        {
+            "id": "0461",
+            "name": "Koračica",
+            "posta": "11415"
+        },
+        {
+            "id": "0462",
+            "name": "Korbevac",
+            "posta": "17545"
+        },
+        {
+            "id": "0463",
+            "name": "Korbovo",
+            "posta": "19329"
+        },
+        {
+            "id": "0464",
+            "name": "Korenita",
+            "posta": "15302"
+        },
+        {
+            "id": "0465",
+            "name": "Korman",
+            "posta": "18216"
+        },
+        {
+            "id": "0466",
+            "name": "Korman (Kragujevački)",
+            "posta": "34224"
+        },
+        {
+            "id": "0467",
+            "name": "Kosovska Mitrovica",
+            "posta": "38220"
+        },
+        {
+            "id": "0468",
+            "name": "Kosančić",
+            "posta": "16206"
+        },
+        {
+            "id": "0469",
+            "name": "Kosjerić",
+            "posta": "31260"
+        },
+        {
+            "id": "0470",
+            "name": "Kosovo Polje",
+            "posta": "38210"
+        },
+        {
+            "id": "0471",
+            "name": "Kostojevići",
+            "posta": "31254"
+        },
+        {
+            "id": "0472",
+            "name": "Kostolac",
+            "posta": "12208"
+        },
+        {
+            "id": "0473",
+            "name": "Kotraža",
+            "posta": "32235"
+        },
+        {
+            "id": "0474",
+            "name": "Kovačevac",
+            "posta": "11409"
+        },
+        {
+            "id": "0475",
+            "name": "Kovačica",
+            "posta": "26210"
+        },
+        {
+            "id": "0476",
+            "name": "Kovilj",
+            "posta": "21243"
+        },
+        {
+            "id": "0477",
+            "name": "Kovilje",
+            "posta": "32257"
+        },
+        {
+            "id": "0478",
+            "name": "Kovin",
+            "posta": "26220"
+        },
+        {
+            "id": "0479",
+            "name": "Kragujevac",
+            "posta": "34000"
+        },
+        {
+            "id": "0480",
+            "name": "Krajišnik",
+            "posta": "23231"
+        },
+        {
+            "id": "0481",
+            "name": "Kraljevci",
+            "posta": "22411"
+        },
+        {
+            "id": "0482",
+            "name": "Kraljevo",
+            "posta": "36000"
+        },
+        {
+            "id": "0483",
+            "name": "Krčedin",
+            "posta": "22325"
+        },
+        {
+            "id": "0484",
+            "name": "Kremna",
+            "posta": "31242"
+        },
+        {
+            "id": "0485",
+            "name": "Krepoljin",
+            "posta": "12316"
+        },
+        {
+            "id": "0486",
+            "name": "Kriva Feja",
+            "posta": "17543"
+        },
+        {
+            "id": "0487",
+            "name": "Kriva Reka",
+            "posta": "37282"
+        },
+        {
+            "id": "0488",
+            "name": "Krivaja",
+            "posta": "24341"
+        },
+        {
+            "id": "0489",
+            "name": "Krivelj",
+            "posta": "19219"
+        },
+        {
+            "id": "0490",
+            "name": "Krivi Vir",
+            "posta": "19375"
+        },
+        {
+            "id": "0491",
+            "name": "Krnješevci",
+            "posta": "22314"
+        },
+        {
+            "id": "0492",
+            "name": "Krnjevo",
+            "posta": "11319"
+        },
+        {
+            "id": "0493",
+            "name": "Krupac",
+            "posta": "18307"
+        },
+        {
+            "id": "0494",
+            "name": "Krupanj",
+            "posta": "15314"
+        },
+        {
+            "id": "0495",
+            "name": "Krušar",
+            "posta": "35227"
+        },
+        {
+            "id": "0496",
+            "name": "Kruščić",
+            "posta": "25225"
+        },
+        {
+            "id": "0497",
+            "name": "Kruščica",
+            "posta": "31233"
+        },
+        {
+            "id": "0498",
+            "name": "Krušedol",
+            "posta": "22328"
+        },
+        {
+            "id": "0499",
+            "name": "Kruševac",
+            "posta": "37000"
+        },
+        {
+            "id": "0500",
+            "name": "Kruševica",
+            "posta": "18409"
+        },
+        {
+            "id": "0501",
+            "name": "Kučevo",
+            "posta": "12240"
+        },
+        {
+            "id": "0502",
+            "name": "Kucura",
+            "posta": "21466"
+        },
+        {
+            "id": "0503",
+            "name": "Kukljin",
+            "posta": "37255"
+        },
+        {
+            "id": "0504",
+            "name": "Kukujevci",
+            "posta": "22224"
+        },
+        {
+            "id": "0505",
+            "name": "Kula",
+            "posta": "25230"
+        },
+        {
+            "id": "0506",
+            "name": "Kulina",
+            "posta": "18214"
+        },
+        {
+            "id": "0507",
+            "name": "Kulpin",
+            "posta": "21472"
+        },
+        {
+            "id": "0508",
+            "name": "Kumane",
+            "posta": "23271"
+        },
+        {
+            "id": "0509",
+            "name": "Kupci",
+            "posta": "37222"
+        },
+        {
+            "id": "0510",
+            "name": "Kupinik",
+            "posta": "26368"
+        },
+        {
+            "id": "0511",
+            "name": "Kupinovo",
+            "posta": "22419"
+        },
+        {
+            "id": "0512",
+            "name": "Kupusina",
+            "posta": "25262"
+        },
+        {
+            "id": "0513",
+            "name": "Kuršumlija",
+            "posta": "18430"
+        },
+        {
+            "id": "0514",
+            "name": "Kuršumlijska Banja",
+            "posta": "18435"
+        },
+        {
+            "id": "0515",
+            "name": "Kusadak",
+            "posta": "11425"
+        },
+        {
+            "id": "0516",
+            "name": "Kusić",
+            "posta": "26349"
+        },
+        {
+            "id": "0517",
+            "name": "Kušići",
+            "posta": "32258"
+        },
+        {
+            "id": "0518",
+            "name": "Kušiljevo",
+            "posta": "35226"
+        },
+        {
+            "id": "0519",
+            "name": "Kuštilj",
+            "posta": "26336"
+        },
+        {
+            "id": "0520",
+            "name": "Kuzmin",
+            "posta": "22223"
+        },
+        {
+            "id": "0521",
+            "name": "Laćarak",
+            "posta": "22221"
+        },
+        {
+            "id": "0522",
+            "name": "Laćisled",
+            "posta": "37232"
+        },
+        {
+            "id": "0523",
+            "name": "Lađevci",
+            "posta": "36204"
+        },
+        {
+            "id": "0524",
+            "name": "Lajkovac",
+            "posta": "14224"
+        },
+        {
+            "id": "0525",
+            "name": "Lalić",
+            "posta": "25234"
+        },
+        {
+            "id": "0526",
+            "name": "Lalinac",
+            "posta": "18201"
+        },
+        {
+            "id": "0527",
+            "name": "Lapovo",
+            "posta": "34220"
+        },
+        {
+            "id": "0528",
+            "name": "Lapovo Selo",
+            "posta": "34223"
+        },
+        {
+            "id": "0529",
+            "name": "Lazarevac",
+            "posta": "11550"
+        },
+        {
+            "id": "0530",
+            "name": "Lazarevo",
+            "posta": "23241"
+        },
+        {
+            "id": "0531",
+            "name": "Laznica",
+            "posta": "12321"
+        },
+        {
+            "id": "0532",
+            "name": "Lebane",
+            "posta": "16230"
+        },
+        {
+            "id": "0533",
+            "name": "Lece",
+            "posta": "16248"
+        },
+        {
+            "id": "0534",
+            "name": "Ledinci",
+            "posta": "21207"
+        },
+        {
+            "id": "0535",
+            "name": "Lelić",
+            "posta": "14205"
+        },
+        {
+            "id": "0536",
+            "name": "Lenovac",
+            "posta": "19343"
+        },
+        {
+            "id": "0537",
+            "name": "Lepenac",
+            "posta": "37224"
+        },
+        {
+            "id": "0538",
+            "name": "Lepenica",
+            "posta": "17513"
+        },
+        {
+            "id": "0539",
+            "name": "Leposavić",
+            "posta": "38218"
+        },
+        {
+            "id": "0540",
+            "name": "Lesak",
+            "posta": "38219"
+        },
+        {
+            "id": "0541",
+            "name": "Leskovac",
+            "posta": "16000"
+        },
+        {
+            "id": "0542",
+            "name": "Lešnica",
+            "posta": "15307"
+        },
+        {
+            "id": "0543",
+            "name": "Leštane",
+            "posta": "11309"
+        },
+        {
+            "id": "0544",
+            "name": "Lezimir",
+            "posta": "22207"
+        },
+        {
+            "id": "0545",
+            "name": "Lički Hanovi",
+            "posta": "18245"
+        },
+        {
+            "id": "0546",
+            "name": "Lipar",
+            "posta": "25232"
+        },
+        {
+            "id": "0547",
+            "name": "Lipe",
+            "posta": "11310"
+        },
+        {
+            "id": "0548",
+            "name": "Lipolist",
+            "posta": "15305"
+        },
+        {
+            "id": "0549",
+            "name": "Loćika",
+            "posta": "35274"
+        },
+        {
+            "id": "0550",
+            "name": "Lok",
+            "posta": "21248"
+        },
+        {
+            "id": "0551",
+            "name": "Lokve",
+            "posta": "26361"
+        },
+        {
+            "id": "0552",
+            "name": "Lovćenac",
+            "posta": "24322"
+        },
+        {
+            "id": "0553",
+            "name": "Loznica",
+            "posta": "15300"
+        },
+        {
+            "id": "0554",
+            "name": "Lozovik",
+            "posta": "11317"
+        },
+        {
+            "id": "0555",
+            "name": "Lubnica",
+            "posta": "19208"
+        },
+        {
+            "id": "0556",
+            "name": "Lučani",
+            "posta": "32240"
+        },
+        {
+            "id": "0557",
+            "name": "Lug",
+            "posta": "21315"
+        },
+        {
+            "id": "0558",
+            "name": "Lugavčina",
+            "posta": "11321"
+        },
+        {
+            "id": "0559",
+            "name": "Luka",
+            "posta": "19234"
+        },
+        {
+            "id": "0560",
+            "name": "Lukare",
+            "posta": "36306"
+        },
+        {
+            "id": "0561",
+            "name": "Lukićevo",
+            "posta": "23261"
+        },
+        {
+            "id": "0562",
+            "name": "Lukino Selo",
+            "posta": "23224"
+        },
+        {
+            "id": "0563",
+            "name": "Lukovo",
+            "posta": "19371"
+        },
+        {
+            "id": "0564",
+            "name": "Lukovo (kod Kuršumlije)",
+            "posta": "18437"
+        },
+        {
+            "id": "0565",
+            "name": "Lunovo Selo",
+            "posta": "31203"
+        },
+        {
+            "id": "0566",
+            "name": "Lužane",
+            "posta": "18228"
+        },
+        {
+            "id": "0567",
+            "name": "Lužnice",
+            "posta": "34325"
+        },
+        {
+            "id": "0568",
+            "name": "Ljig",
+            "posta": "14240"
+        },
+        {
+            "id": "0569",
+            "name": "Ljuba",
+            "posta": "22255"
+        },
+        {
+            "id": "0570",
+            "name": "Ljuberađa",
+            "posta": "18217"
+        },
+        {
+            "id": "0571",
+            "name": "Ljubiš",
+            "posta": "31209"
+        },
+        {
+            "id": "0572",
+            "name": "Ljubovija",
+            "posta": "15320"
+        },
+        {
+            "id": "0573",
+            "name": "Ljukovo",
+            "posta": "22321"
+        },
+        {
+            "id": "0574",
+            "name": "Ljutovo",
+            "posta": "24215"
+        },
+        {
+            "id": "0575",
+            "name": "Mala Moštanica",
+            "posta": "11261"
+        },
+        {
+            "id": "0576",
+            "name": "Mačkat",
+            "posta": "31312"
+        },
+        {
+            "id": "0577",
+            "name": "Mačvanska Mitrovica",
+            "posta": "22202"
+        },
+        {
+            "id": "0578",
+            "name": "Mačvanski Pričinović",
+            "posta": "15211"
+        },
+        {
+            "id": "0579",
+            "name": "Maglić",
+            "posta": "21473"
+        },
+        {
+            "id": "0580",
+            "name": "Majdan",
+            "posta": "23333"
+        },
+        {
+            "id": "0581",
+            "name": "Majdanpek",
+            "posta": "19250"
+        },
+        {
+            "id": "0582",
+            "name": "Majilovac",
+            "posta": "12221"
+        },
+        {
+            "id": "0583",
+            "name": "Majur",
+            "posta": "15353"
+        },
+        {
+            "id": "0584",
+            "name": "Majur (kod Jagodine)",
+            "posta": "35270"
+        },
+        {
+            "id": "0585",
+            "name": "Mala Bosna",
+            "posta": "24217"
+        },
+        {
+            "id": "0586",
+            "name": "Mala Krsna",
+            "posta": "11313"
+        },
+        {
+            "id": "0587",
+            "name": "Mala Plana",
+            "posta": "18423"
+        },
+        {
+            "id": "0588",
+            "name": "Malča",
+            "posta": "18207"
+        },
+        {
+            "id": "0589",
+            "name": "Male Pčelice",
+            "posta": "34216"
+        },
+        {
+            "id": "0590",
+            "name": "Male Pijace",
+            "posta": "24416"
+        },
+        {
+            "id": "0591",
+            "name": "Mali Beograd",
+            "posta": "24309"
+        },
+        {
+            "id": "0592",
+            "name": "Mali Iđoš",
+            "posta": "24321"
+        },
+        {
+            "id": "0593",
+            "name": "Mali Izvor",
+            "posta": "19347"
+        },
+        {
+            "id": "0594",
+            "name": "Mali Jasenovac",
+            "posta": "19209"
+        },
+        {
+            "id": "0595",
+            "name": "Mali Požarevac",
+            "posta": "11235"
+        },
+        {
+            "id": "0596",
+            "name": "Mali Zvornik",
+            "posta": "15318"
+        },
+        {
+            "id": "0597",
+            "name": "Malo Crniće",
+            "posta": "12311"
+        },
+        {
+            "id": "0598",
+            "name": "Malo Krčmare",
+            "posta": "34212"
+        },
+        {
+            "id": "0599",
+            "name": "Malošište",
+            "posta": "18415"
+        },
+        {
+            "id": "0600",
+            "name": "Manđelos",
+            "posta": "22208"
+        },
+        {
+            "id": "0601",
+            "name": "Manojlovce",
+            "posta": "16201"
+        },
+        {
+            "id": "0602",
+            "name": "Maradik",
+            "posta": "22327"
+        },
+        {
+            "id": "0603",
+            "name": "Margita",
+            "posta": "26364"
+        },
+        {
+            "id": "0604",
+            "name": "Markovac",
+            "posta": "11325"
+        },
+        {
+            "id": "0605",
+            "name": "Markovica",
+            "posta": "32243"
+        },
+        {
+            "id": "0606",
+            "name": "Maršić",
+            "posta": "34209"
+        },
+        {
+            "id": "0607",
+            "name": "Martinci",
+            "posta": "22222"
+        },
+        {
+            "id": "0608",
+            "name": "Martonoš",
+            "posta": "24417"
+        },
+        {
+            "id": "0609",
+            "name": "Mataruška Banja",
+            "posta": "36201"
+        },
+        {
+            "id": "0610",
+            "name": "Međa",
+            "posta": "23234"
+        },
+        {
+            "id": "0611",
+            "name": "Medoševac",
+            "posta": "18209"
+        },
+        {
+            "id": "0612",
+            "name": "Međurečje",
+            "posta": "32255"
+        },
+        {
+            "id": "0613",
+            "name": "Medveđa",
+            "posta": "16240"
+        },
+        {
+            "id": "0614",
+            "name": "Medveđa (kod Despotovca)",
+            "posta": "35224"
+        },
+        {
+            "id": "0615",
+            "name": "Medveđa (kod Trstenika)",
+            "posta": "37244"
+        },
+        {
+            "id": "0616",
+            "name": "Melenci",
+            "posta": "23270"
+        },
+        {
+            "id": "0617",
+            "name": "Meljak",
+            "posta": "11426"
+        },
+        {
+            "id": "0618",
+            "name": "Melnica",
+            "posta": "12305"
+        },
+        {
+            "id": "0619",
+            "name": "Merćez",
+            "posta": "18436"
+        },
+        {
+            "id": "0620",
+            "name": "Merdare",
+            "posta": "18445"
+        },
+        {
+            "id": "0621",
+            "name": "Merošina",
+            "posta": "18252"
+        },
+        {
+            "id": "0622",
+            "name": "Metlić",
+            "posta": "15233"
+        },
+        {
+            "id": "0623",
+            "name": "Metovnica",
+            "posta": "19204"
+        },
+        {
+            "id": "0624",
+            "name": "Mihajlovac (kod Smedereva)",
+            "posta": "11312"
+        },
+        {
+            "id": "0625",
+            "name": "Mihajlovac (Krajinski)",
+            "posta": "19322"
+        },
+        {
+            "id": "0626",
+            "name": "Mihajlovo",
+            "posta": "23202"
+        },
+        {
+            "id": "0627",
+            "name": "Mijatovac",
+            "posta": "35236"
+        },
+        {
+            "id": "0628",
+            "name": "Milentija",
+            "posta": "37227"
+        },
+        {
+            "id": "0629",
+            "name": "Mileševo",
+            "posta": "21227"
+        },
+        {
+            "id": "0630",
+            "name": "Miletićevo",
+            "posta": "26373"
+        },
+        {
+            "id": "0631",
+            "name": "Miloševac",
+            "posta": "11318"
+        },
+        {
+            "id": "0632",
+            "name": "Miloševo",
+            "posta": "35268"
+        },
+        {
+            "id": "0633",
+            "name": "Milutovac",
+            "posta": "37246"
+        },
+        {
+            "id": "0634",
+            "name": "Minićevo",
+            "posta": "19340"
+        },
+        {
+            "id": "0635",
+            "name": "Mionica",
+            "posta": "14242"
+        },
+        {
+            "id": "0636",
+            "name": "Mirosaljci",
+            "posta": "11567"
+        },
+        {
+            "id": "0637",
+            "name": "Miroševce",
+            "posta": "16204"
+        },
+        {
+            "id": "0638",
+            "name": "Mišićevo",
+            "posta": "24211"
+        },
+        {
+            "id": "0639",
+            "name": "Mitrovac",
+            "posta": "31251"
+        },
+        {
+            "id": "0640",
+            "name": "Mladenovac",
+            "posta": "11400"
+        },
+        {
+            "id": "0641",
+            "name": "Mladenovo",
+            "posta": "21422"
+        },
+        {
+            "id": "0642",
+            "name": "Mojsinje",
+            "posta": "32211"
+        },
+        {
+            "id": "0643",
+            "name": "Mokra Gora",
+            "posta": "31243"
+        },
+        {
+            "id": "0644",
+            "name": "Mokranja",
+            "posta": "19317"
+        },
+        {
+            "id": "0645",
+            "name": "Mokrin",
+            "posta": "23305"
+        },
+        {
+            "id": "0646",
+            "name": "Mol",
+            "posta": "24435"
+        },
+        {
+            "id": "0647",
+            "name": "Molovin",
+            "posta": "22256"
+        },
+        {
+            "id": "0648",
+            "name": "Morović",
+            "posta": "22245"
+        },
+        {
+            "id": "0649",
+            "name": "Mošorin",
+            "posta": "21245"
+        },
+        {
+            "id": "0650",
+            "name": "Mozgovo",
+            "posta": "18229"
+        },
+        {
+            "id": "0651",
+            "name": "Mramor",
+            "posta": "18251"
+        },
+        {
+            "id": "0652",
+            "name": "Mramorak",
+            "posta": "26226"
+        },
+        {
+            "id": "0653",
+            "name": "Mrčajevci",
+            "posta": "32210"
+        },
+        {
+            "id": "0654",
+            "name": "Muhovac",
+            "posta": "17529"
+        },
+        {
+            "id": "0655",
+            "name": "Mužlja",
+            "posta": "23206"
+        },
+        {
+            "id": "0656",
+            "name": "Nadalj",
+            "posta": "21216"
+        },
+        {
+            "id": "0657",
+            "name": "Nakovo",
+            "posta": "23311"
+        },
+        {
+            "id": "0658",
+            "name": "Natalinci",
+            "posta": "34313"
+        },
+        {
+            "id": "0659",
+            "name": "Negotin",
+            "posta": "19300"
+        },
+        {
+            "id": "0660",
+            "name": "Neresnica",
+            "posta": "12242"
+        },
+        {
+            "id": "0661",
+            "name": "Neštin",
+            "posta": "21314"
+        },
+        {
+            "id": "0662",
+            "name": "Neuzina",
+            "posta": "23245"
+        },
+        {
+            "id": "0663",
+            "name": "Nikinci",
+            "posta": "22422"
+        },
+        {
+            "id": "0664",
+            "name": "Nikolićevo",
+            "posta": "19311"
+        },
+        {
+            "id": "0665",
+            "name": "Nikolinci",
+            "posta": "26322"
+        },
+        {
+            "id": "0666",
+            "name": "Niš",
+            "posta": "18000"
+        },
+        {
+            "id": "0667",
+            "name": "Niševac",
+            "posta": "18366"
+        },
+        {
+            "id": "0668",
+            "name": "Niška Banja",
+            "posta": "18205"
+        },
+        {
+            "id": "0669",
+            "name": "Noćaj",
+            "posta": "22203"
+        },
+        {
+            "id": "0670",
+            "name": "Nova Crnja",
+            "posta": "23218"
+        },
+        {
+            "id": "0671",
+            "name": "Nova Crvenka",
+            "posta": "25224"
+        },
+        {
+            "id": "0672",
+            "name": "Nova Gajdobra",
+            "posta": "21431"
+        },
+        {
+            "id": "0673",
+            "name": "Nova Pazova",
+            "posta": "22330"
+        },
+        {
+            "id": "0674",
+            "name": "Nova Varoš",
+            "posta": "31320"
+        },
+        {
+            "id": "0675",
+            "name": "Novi Banovci",
+            "posta": "22304"
+        },
+        {
+            "id": "0676",
+            "name": "Novi Bečej",
+            "posta": "23272"
+        },
+        {
+            "id": "0677",
+            "name": "Novi Itebej",
+            "posta": "23236"
+        },
+        {
+            "id": "0678",
+            "name": "Novi Karlovci",
+            "posta": "22322"
+        },
+        {
+            "id": "0679",
+            "name": "Novi Kneževac",
+            "posta": "23330"
+        },
+        {
+            "id": "0680",
+            "name": "Novi Kozarci",
+            "posta": "23313"
+        },
+        {
+            "id": "0681",
+            "name": "Novi Kozjak",
+            "posta": "26353"
+        },
+        {
+            "id": "0682",
+            "name": "Novi Pazar",
+            "posta": "36300"
+        },
+        {
+            "id": "0683",
+            "name": "Novi Sad",
+            "posta": "21000"
+        },
+        {
+            "id": "0684",
+            "name": "Novi Slankamen",
+            "posta": "22323"
+        },
+        {
+            "id": "0685",
+            "name": "Novi Žednik",
+            "posta": "24223"
+        },
+        {
+            "id": "0686",
+            "name": "Novo Lanište",
+            "posta": "35271"
+        },
+        {
+            "id": "0687",
+            "name": "Novo Miloševo",
+            "posta": "23273"
+        },
+        {
+            "id": "0688",
+            "name": "Novo Orahovo",
+            "posta": "24351"
+        },
+        {
+            "id": "0689",
+            "name": "Novo Selo",
+            "posta": "18250"
+        },
+        {
+            "id": "0690",
+            "name": "Njegoševo",
+            "posta": "24311"
+        },
+        {
+            "id": "0691",
+            "name": "Obrenovac",
+            "posta": "11500"
+        },
+        {
+            "id": "0692",
+            "name": "Obrež",
+            "posta": "37266"
+        },
+        {
+            "id": "0693",
+            "name": "Obrež (Srem)",
+            "posta": "22417"
+        },
+        {
+            "id": "0694",
+            "name": "Obrovac",
+            "posta": "21423"
+        },
+        {
+            "id": "0695",
+            "name": "Odžaci",
+            "posta": "25250"
+        },
+        {
+            "id": "0696",
+            "name": "Ogar",
+            "posta": "22416"
+        },
+        {
+            "id": "0697",
+            "name": "Omoljica",
+            "posta": "26230"
+        },
+        {
+            "id": "0698",
+            "name": "Oparić",
+            "posta": "35267"
+        },
+        {
+            "id": "0699",
+            "name": "Opovo",
+            "posta": "26204"
+        },
+        {
+            "id": "0700",
+            "name": "Orane",
+            "posta": "16233"
+        },
+        {
+            "id": "0701",
+            "name": "Oraovica",
+            "posta": "17557"
+        },
+        {
+            "id": "0702",
+            "name": "Orašac",
+            "posta": "34308"
+        },
+        {
+            "id": "0703",
+            "name": "Orešković",
+            "posta": "24344"
+        },
+        {
+            "id": "0704",
+            "name": "Oreškovica",
+            "posta": "12308"
+        },
+        {
+            "id": "0705",
+            "name": "Orid",
+            "posta": "15213"
+        },
+        {
+            "id": "0706",
+            "name": "Orlovat",
+            "posta": "23263"
+        },
+        {
+            "id": "0707",
+            "name": "Orom",
+            "posta": "24207"
+        },
+        {
+            "id": "0708",
+            "name": "Osaonica",
+            "posta": "12317"
+        },
+        {
+            "id": "0709",
+            "name": "Osečina",
+            "posta": "14253"
+        },
+        {
+            "id": "0710",
+            "name": "Osipaonica",
+            "posta": "11314"
+        },
+        {
+            "id": "0711",
+            "name": "Osnić",
+            "posta": "19378"
+        },
+        {
+            "id": "0712",
+            "name": "Ostojićevo",
+            "posta": "23326"
+        },
+        {
+            "id": "0713",
+            "name": "Ostrovica",
+            "posta": "18312"
+        },
+        {
+            "id": "0714",
+            "name": "Ostružnica",
+            "posta": "11251"
+        },
+        {
+            "id": "0715",
+            "name": "Ovča",
+            "posta": "11212"
+        },
+        {
+            "id": "0716",
+            "name": "Ovčar Banja",
+            "posta": "32242"
+        },
+        {
+            "id": "0717",
+            "name": "Pačir",
+            "posta": "24342"
+        },
+        {
+            "id": "0718",
+            "name": "Padinska Skela",
+            "posta": "11213"
+        },
+        {
+            "id": "0719",
+            "name": "Padej",
+            "posta": "23325"
+        },
+        {
+            "id": "0720",
+            "name": "Padež",
+            "posta": "37257"
+        },
+        {
+            "id": "0721",
+            "name": "Padina",
+            "posta": "26215"
+        },
+        {
+            "id": "0722",
+            "name": "Palić",
+            "posta": "24413"
+        },
+        {
+            "id": "0723",
+            "name": "Palilula",
+            "posta": "18363"
+        },
+        {
+            "id": "0724",
+            "name": "Pambukovica",
+            "posta": "14213"
+        },
+        {
+            "id": "0725",
+            "name": "Pančevo",
+            "posta": "26000"
+        },
+        {
+            "id": "0726",
+            "name": "Panonija",
+            "posta": "24330"
+        },
+        {
+            "id": "0727",
+            "name": "Paraćin",
+            "posta": "35250"
+        },
+        {
+            "id": "0728",
+            "name": "Parage",
+            "posta": "21434"
+        },
+        {
+            "id": "0729",
+            "name": "Parunovac",
+            "posta": "37201"
+        },
+        {
+            "id": "0730",
+            "name": "Pasjane",
+            "posta": "38266"
+        },
+        {
+            "id": "0731",
+            "name": "Pavliš",
+            "posta": "26333"
+        },
+        {
+            "id": "0732",
+            "name": "Pečanjevce",
+            "posta": "16251"
+        },
+        {
+            "id": "0733",
+            "name": "Pećinci",
+            "posta": "22410"
+        },
+        {
+            "id": "0734",
+            "name": "Pecka",
+            "posta": "14207"
+        },
+        {
+            "id": "0735",
+            "name": "Pejkovac",
+            "posta": "18413"
+        },
+        {
+            "id": "0736",
+            "name": "Pepeljevac",
+            "posta": "37231"
+        },
+        {
+            "id": "0737",
+            "name": "Perlez",
+            "posta": "23260"
+        },
+        {
+            "id": "0738",
+            "name": "Perućac",
+            "posta": "31256"
+        },
+        {
+            "id": "0739",
+            "name": "Petlovača",
+            "posta": "15304"
+        },
+        {
+            "id": "0740",
+            "name": "Petrovac Na Mlavi",
+            "posta": "12300"
+        },
+        {
+            "id": "0741",
+            "name": "Petrovaradin",
+            "posta": "21131"
+        },
+        {
+            "id": "0742",
+            "name": "Pinosava",
+            "posta": "11226"
+        },
+        {
+            "id": "0743",
+            "name": "Pirot",
+            "posta": "18300"
+        },
+        {
+            "id": "0744",
+            "name": "Pivnice",
+            "posta": "21469"
+        },
+        {
+            "id": "0745",
+            "name": "Plana",
+            "posta": "35247"
+        },
+        {
+            "id": "0746",
+            "name": "Plandište",
+            "posta": "26360"
+        },
+        {
+            "id": "0747",
+            "name": "Planinica",
+            "posta": "19207"
+        },
+        {
+            "id": "0748",
+            "name": "Platičevo",
+            "posta": "22420"
+        },
+        {
+            "id": "0749",
+            "name": "Plavna",
+            "posta": "21428"
+        },
+        {
+            "id": "0750",
+            "name": "Plažane",
+            "posta": "35212"
+        },
+        {
+            "id": "0751",
+            "name": "Pleš",
+            "posta": "37238"
+        },
+        {
+            "id": "0752",
+            "name": "Ploča",
+            "posta": "37237"
+        },
+        {
+            "id": "0753",
+            "name": "Pločica",
+            "posta": "26229"
+        },
+        {
+            "id": "0754",
+            "name": "Pobeda",
+            "posta": "24313"
+        },
+        {
+            "id": "0755",
+            "name": "Počekovina",
+            "posta": "37243"
+        },
+        {
+            "id": "0756",
+            "name": "Poćuta",
+            "posta": "14206"
+        },
+        {
+            "id": "0757",
+            "name": "Podunavci",
+            "posta": "36215"
+        },
+        {
+            "id": "0758",
+            "name": "Podvis",
+            "posta": "19362"
+        },
+        {
+            "id": "0759",
+            "name": "Podvrška",
+            "posta": "19321"
+        },
+        {
+            "id": "0760",
+            "name": "Poganovo",
+            "posta": "18326"
+        },
+        {
+            "id": "0761",
+            "name": "Pojate",
+            "posta": "37214"
+        },
+        {
+            "id": "0762",
+            "name": "Poljana",
+            "posta": "12372"
+        },
+        {
+            "id": "0763",
+            "name": "Popinci",
+            "posta": "22428"
+        },
+        {
+            "id": "0764",
+            "name": "Popovac",
+            "posta": "18260"
+        },
+        {
+            "id": "0765",
+            "name": "Popovac (kod Paraćina)",
+            "posta": "35254"
+        },
+        {
+            "id": "0766",
+            "name": "Popučke",
+            "posta": "14221"
+        },
+        {
+            "id": "0767",
+            "name": "Porodin",
+            "posta": "12375"
+        },
+        {
+            "id": "0768",
+            "name": "Potočac",
+            "posta": "35207"
+        },
+        {
+            "id": "0769",
+            "name": "Požarevac",
+            "posta": "12000"
+        },
+        {
+            "id": "0770",
+            "name": "Požega",
+            "posta": "31210"
+        },
+        {
+            "id": "0771",
+            "name": "Prahovo",
+            "posta": "19330"
+        },
+        {
+            "id": "0772",
+            "name": "Pranjani",
+            "posta": "32308"
+        },
+        {
+            "id": "0773",
+            "name": "Predejane",
+            "posta": "16222"
+        },
+        {
+            "id": "0774",
+            "name": "Prekonoga",
+            "posta": "18365"
+        },
+        {
+            "id": "0775",
+            "name": "Preljina",
+            "posta": "32212"
+        },
+        {
+            "id": "0776",
+            "name": "Preševo",
+            "posta": "17523"
+        },
+        {
+            "id": "0777",
+            "name": "Prevešt",
+            "posta": "35264"
+        },
+        {
+            "id": "0778",
+            "name": "Prhovo",
+            "posta": "22442"
+        },
+        {
+            "id": "0779",
+            "name": "Priboj",
+            "posta": "31330"
+        },
+        {
+            "id": "0780",
+            "name": "Priboj Vranjski",
+            "posta": "17511"
+        },
+        {
+            "id": "0781",
+            "name": "Pričević",
+            "posta": "14251"
+        },
+        {
+            "id": "0782",
+            "name": "Prigrevica",
+            "posta": "25263"
+        },
+        {
+            "id": "0783",
+            "name": "Prijepolje",
+            "posta": "31300"
+        },
+        {
+            "id": "0784",
+            "name": "Prilički Kiseljak",
+            "posta": "32252"
+        },
+        {
+            "id": "0785",
+            "name": "Prilužje",
+            "posta": "38213"
+        },
+        {
+            "id": "0786",
+            "name": "Privina Glava",
+            "posta": "22257"
+        },
+        {
+            "id": "0787",
+            "name": "Prnjavor Mačvanski",
+            "posta": "15306"
+        },
+        {
+            "id": "0788",
+            "name": "Progar",
+            "posta": "11280"
+        },
+        {
+            "id": "0789",
+            "name": "Prokuplje",
+            "posta": "18400"
+        },
+        {
+            "id": "0790",
+            "name": "Prolom",
+            "posta": "18433"
+        },
+        {
+            "id": "0791",
+            "name": "Provo",
+            "posta": "15215"
+        },
+        {
+            "id": "0792",
+            "name": "Pružatovac",
+            "posta": "11413"
+        },
+        {
+            "id": "0793",
+            "name": "Pukovac",
+            "posta": "18255"
+        },
+        {
+            "id": "0794",
+            "name": "Putinci",
+            "posta": "22404"
+        },
+        {
+            "id": "0795",
+            "name": "Rabrovo",
+            "posta": "12254"
+        },
+        {
+            "id": "0796",
+            "name": "Rača",
+            "posta": "18440"
+        },
+        {
+            "id": "0797",
+            "name": "Rača Kragujevačka",
+            "posta": "34210"
+        },
+        {
+            "id": "0798",
+            "name": "Radalj",
+            "posta": "15321"
+        },
+        {
+            "id": "0799",
+            "name": "Radenković",
+            "posta": "22206"
+        },
+        {
+            "id": "0800",
+            "name": "Radičević",
+            "posta": "21225"
+        },
+        {
+            "id": "0801",
+            "name": "Radinac",
+            "posta": "11311"
+        },
+        {
+            "id": "0802",
+            "name": "Radljevo",
+            "posta": "14211"
+        },
+        {
+            "id": "0803",
+            "name": "Radojevo",
+            "posta": "23221"
+        },
+        {
+            "id": "0804",
+            "name": "Radujevac",
+            "posta": "19334"
+        },
+        {
+            "id": "0805",
+            "name": "Rajac",
+            "posta": "19314"
+        },
+        {
+            "id": "0806",
+            "name": "Rajković",
+            "posta": "14202"
+        },
+        {
+            "id": "0807",
+            "name": "Rakinac",
+            "posta": "11327"
+        },
+        {
+            "id": "0808",
+            "name": "Rakovac",
+            "posta": "21299"
+        },
+        {
+            "id": "0809",
+            "name": "Ralja",
+            "posta": "11233"
+        },
+        {
+            "id": "0810",
+            "name": "Ranilović",
+            "posta": "34302"
+        },
+        {
+            "id": "0811",
+            "name": "Ranilug",
+            "posta": "38267"
+        },
+        {
+            "id": "0812",
+            "name": "Ranovac",
+            "posta": "12304"
+        },
+        {
+            "id": "0813",
+            "name": "Rašanac",
+            "posta": "12315"
+        },
+        {
+            "id": "0814",
+            "name": "Raševica",
+            "posta": "35206"
+        },
+        {
+            "id": "0815",
+            "name": "Raška",
+            "posta": "36350"
+        },
+        {
+            "id": "0816",
+            "name": "Rastina",
+            "posta": "25283"
+        },
+        {
+            "id": "0817",
+            "name": "Rataje",
+            "posta": "37236"
+        },
+        {
+            "id": "0818",
+            "name": "Ratari",
+            "posta": "11411"
+        },
+        {
+            "id": "0819",
+            "name": "Ratina",
+            "posta": "36212"
+        },
+        {
+            "id": "0820",
+            "name": "Ratkovo",
+            "posta": "25253"
+        },
+        {
+            "id": "0821",
+            "name": "Ravna Dubrava",
+            "posta": "18246"
+        },
+        {
+            "id": "0822",
+            "name": "Ravna Reka",
+            "posta": "35235"
+        },
+        {
+            "id": "0823",
+            "name": "Ravni",
+            "posta": "31206"
+        },
+        {
+            "id": "0824",
+            "name": "Ravni Topolovac",
+            "posta": "23212"
+        },
+        {
+            "id": "0825",
+            "name": "Ravnje",
+            "posta": "22205"
+        },
+        {
+            "id": "0826",
+            "name": "Ravno Selo",
+            "posta": "21471"
+        },
+        {
+            "id": "0827",
+            "name": "Ražana",
+            "posta": "31265"
+        },
+        {
+            "id": "0828",
+            "name": "Ražanj",
+            "posta": "37215"
+        },
+        {
+            "id": "0829",
+            "name": "Razbojna",
+            "posta": "37223"
+        },
+        {
+            "id": "0830",
+            "name": "Razgojna",
+            "posta": "16252"
+        },
+        {
+            "id": "0831",
+            "name": "Rekovac",
+            "posta": "35260"
+        },
+        {
+            "id": "0832",
+            "name": "Reljan",
+            "posta": "17556"
+        },
+        {
+            "id": "0833",
+            "name": "Resavica",
+            "posta": "35237"
+        },
+        {
+            "id": "0834",
+            "name": "Resnik",
+            "posta": "34225"
+        },
+        {
+            "id": "0835",
+            "name": "Rgotina",
+            "posta": "19214"
+        },
+        {
+            "id": "0836",
+            "name": "Ribare (kod Jagodine)",
+            "posta": "35220"
+        },
+        {
+            "id": "0837",
+            "name": "Ribari",
+            "posta": "15310"
+        },
+        {
+            "id": "0838",
+            "name": "Ribarići",
+            "posta": "36309"
+        },
+        {
+            "id": "0839",
+            "name": "Ribarska Banja",
+            "posta": "37205"
+        },
+        {
+            "id": "0840",
+            "name": "Riđica",
+            "posta": "25280"
+        },
+        {
+            "id": "0841",
+            "name": "Ripanj",
+            "posta": "11232"
+        },
+        {
+            "id": "0842",
+            "name": "Ristovac",
+            "posta": "17521"
+        },
+        {
+            "id": "0843",
+            "name": "Ritisevo",
+            "posta": "26331"
+        },
+        {
+            "id": "0844",
+            "name": "Roćevci",
+            "posta": "36205"
+        },
+        {
+            "id": "0845",
+            "name": "Rogača",
+            "posta": "11453"
+        },
+        {
+            "id": "0846",
+            "name": "Rogačica",
+            "posta": "31255"
+        },
+        {
+            "id": "0847",
+            "name": "Roge",
+            "posta": "31237"
+        },
+        {
+            "id": "0848",
+            "name": "Rogljevo",
+            "posta": "19318"
+        },
+        {
+            "id": "0849",
+            "name": "Rožanstvo",
+            "posta": "31208"
+        },
+        {
+            "id": "0850",
+            "name": "Rudna Glava",
+            "posta": "19257"
+        },
+        {
+            "id": "0851",
+            "name": "Rudnica",
+            "posta": "36353"
+        },
+        {
+            "id": "0852",
+            "name": "Rudnik",
+            "posta": "32313"
+        },
+        {
+            "id": "0853",
+            "name": "Rudno",
+            "posta": "36222"
+        },
+        {
+            "id": "0854",
+            "name": "Rudovci",
+            "posta": "11566"
+        },
+        {
+            "id": "0855",
+            "name": "Ruma",
+            "posta": "22400"
+        },
+        {
+            "id": "0856",
+            "name": "Rumenka",
+            "posta": "21201"
+        },
+        {
+            "id": "0857",
+            "name": "Ruplje",
+            "posta": "16223"
+        },
+        {
+            "id": "0858",
+            "name": "Rušanj",
+            "posta": "11194"
+        },
+        {
+            "id": "0859",
+            "name": "Ruski Krstur",
+            "posta": "25233"
+        },
+        {
+            "id": "0860",
+            "name": "Rusko Selo",
+            "posta": "23314"
+        },
+        {
+            "id": "0861",
+            "name": "Rutevac",
+            "posta": "18224"
+        },
+        {
+            "id": "0862",
+            "name": "Sajan",
+            "posta": "23324"
+        },
+        {
+            "id": "0863",
+            "name": "Sakule",
+            "posta": "26206"
+        },
+        {
+            "id": "0864",
+            "name": "Salaš",
+            "posta": "19224"
+        },
+        {
+            "id": "0865",
+            "name": "Salaš Noćajski",
+            "posta": "22204"
+        },
+        {
+            "id": "0866",
+            "name": "Samaila",
+            "posta": "36202"
+        },
+        {
+            "id": "0867",
+            "name": "Samoš",
+            "posta": "26350"
+        },
+        {
+            "id": "0868",
+            "name": "Sanad",
+            "posta": "23331"
+        },
+        {
+            "id": "0869",
+            "name": "Saraorci",
+            "posta": "11315"
+        },
+        {
+            "id": "0870",
+            "name": "Sastav Reka",
+            "posta": "16213"
+        },
+        {
+            "id": "0871",
+            "name": "Sastavci",
+            "posta": "31335"
+        },
+        {
+            "id": "0872",
+            "name": "Savinac",
+            "posta": "19377"
+        },
+        {
+            "id": "0873",
+            "name": "Savino Selo",
+            "posta": "21467"
+        },
+        {
+            "id": "0874",
+            "name": "Seča Reka",
+            "posta": "31262"
+        },
+        {
+            "id": "0875",
+            "name": "Sečanj",
+            "posta": "23240"
+        },
+        {
+            "id": "0876",
+            "name": "Sedlare",
+            "posta": "35211"
+        },
+        {
+            "id": "0877",
+            "name": "Sefkerin",
+            "posta": "26203"
+        },
+        {
+            "id": "0878",
+            "name": "Selenča",
+            "posta": "21425"
+        },
+        {
+            "id": "0879",
+            "name": "Seleuš",
+            "posta": "26351"
+        },
+        {
+            "id": "0880",
+            "name": "Selevac",
+            "posta": "11407"
+        },
+        {
+            "id": "0881",
+            "name": "Senta",
+            "posta": "24400"
+        },
+        {
+            "id": "0882",
+            "name": "Senje",
+            "posta": "35233"
+        },
+        {
+            "id": "0883",
+            "name": "Senjski Rudnik",
+            "posta": "35234"
+        },
+        {
+            "id": "0884",
+            "name": "Sevojno",
+            "posta": "31205"
+        },
+        {
+            "id": "0885",
+            "name": "Sibač",
+            "posta": "22440"
+        },
+        {
+            "id": "0886",
+            "name": "Sibnica",
+            "posta": "11454"
+        },
+        {
+            "id": "0887",
+            "name": "Sićevo",
+            "posta": "18311"
+        },
+        {
+            "id": "0888",
+            "name": "Sijarinska Banja",
+            "posta": "16246"
+        },
+        {
+            "id": "0889",
+            "name": "Sikirica",
+            "posta": "35256"
+        },
+        {
+            "id": "0890",
+            "name": "Sikole",
+            "posta": "19225"
+        },
+        {
+            "id": "0891",
+            "name": "Silbaš",
+            "posta": "21433"
+        },
+        {
+            "id": "0892",
+            "name": "Simićevo",
+            "posta": "12373"
+        },
+        {
+            "id": "0893",
+            "name": "Siokovac",
+            "posta": "35203"
+        },
+        {
+            "id": "0894",
+            "name": "Sip",
+            "posta": "19326"
+        },
+        {
+            "id": "0895",
+            "name": "Sirča",
+            "posta": "36208"
+        },
+        {
+            "id": "0896",
+            "name": "Sirig",
+            "posta": "21214"
+        },
+        {
+            "id": "0897",
+            "name": "Sirogojno",
+            "posta": "31207"
+        },
+        {
+            "id": "0898",
+            "name": "Sivac",
+            "posta": "25223"
+        },
+        {
+            "id": "0899",
+            "name": "Sjenica",
+            "posta": "36310"
+        },
+        {
+            "id": "0900",
+            "name": "Skela",
+            "posta": "11509"
+        },
+        {
+            "id": "0901",
+            "name": "Skobaj",
+            "posta": "11322"
+        },
+        {
+            "id": "0902",
+            "name": "Skorenovac",
+            "posta": "26228"
+        },
+        {
+            "id": "0903",
+            "name": "Slankamenački Vinogradi",
+            "posta": "22318"
+        },
+        {
+            "id": "0904",
+            "name": "Slatina (kod čačka)",
+            "posta": "32224"
+        },
+        {
+            "id": "0905",
+            "name": "Slavkovica",
+            "posta": "14245"
+        },
+        {
+            "id": "0906",
+            "name": "Slovac",
+            "posta": "14223"
+        },
+        {
+            "id": "0907",
+            "name": "Smederevo",
+            "posta": "11300"
+        },
+        {
+            "id": "0908",
+            "name": "Smederevska Palanka",
+            "posta": "11420"
+        },
+        {
+            "id": "0909",
+            "name": "Smilovci",
+            "posta": "18323"
+        },
+        {
+            "id": "0910",
+            "name": "Smoljinac",
+            "posta": "12312"
+        },
+        {
+            "id": "0911",
+            "name": "Soko Banja",
+            "posta": "18230"
+        },
+        {
+            "id": "0912",
+            "name": "Sombor",
+            "posta": "25000"
+        },
+        {
+            "id": "0913",
+            "name": "Sonta",
+            "posta": "25264"
+        },
+        {
+            "id": "0914",
+            "name": "Sopoćani",
+            "posta": "36308"
+        },
+        {
+            "id": "0915",
+            "name": "Sopot",
+            "posta": "11450"
+        },
+        {
+            "id": "0916",
+            "name": "Sot",
+            "posta": "22243"
+        },
+        {
+            "id": "0917",
+            "name": "Srbobran",
+            "posta": "21480"
+        },
+        {
+            "id": "0918",
+            "name": "Srednjevo",
+            "posta": "12253"
+        },
+        {
+            "id": "0919",
+            "name": "Sremčica",
+            "posta": "11253"
+        },
+        {
+            "id": "0920",
+            "name": "Sremska Kamenica",
+            "posta": "21208"
+        },
+        {
+            "id": "0921",
+            "name": "Sremska Mitrovica",
+            "posta": "22000"
+        },
+        {
+            "id": "0922",
+            "name": "Sremska Rača",
+            "posta": "22247"
+        },
+        {
+            "id": "0923",
+            "name": "Sremski Karlovci",
+            "posta": "21205"
+        },
+        {
+            "id": "0924",
+            "name": "Sremski Mihaljevci",
+            "posta": "22413"
+        },
+        {
+            "id": "0925",
+            "name": "Srpska Crnja",
+            "posta": "23220"
+        },
+        {
+            "id": "0926",
+            "name": "Srpski Itebej",
+            "posta": "23233"
+        },
+        {
+            "id": "0927",
+            "name": "Srpski Krstur",
+            "posta": "23334"
+        },
+        {
+            "id": "0928",
+            "name": "Srpski Miletić",
+            "posta": "25244"
+        },
+        {
+            "id": "0929",
+            "name": "Stajićevo",
+            "posta": "23204"
+        },
+        {
+            "id": "0930",
+            "name": "Stalać",
+            "posta": "37212"
+        },
+        {
+            "id": "0931",
+            "name": "Stanišić",
+            "posta": "25284"
+        },
+        {
+            "id": "0932",
+            "name": "Stapar",
+            "posta": "25240"
+        },
+        {
+            "id": "0933",
+            "name": "Stara Moravica",
+            "posta": "24340"
+        },
+        {
+            "id": "0934",
+            "name": "Stara Pazova",
+            "posta": "22300"
+        },
+        {
+            "id": "0935",
+            "name": "Starčevo",
+            "posta": "26232"
+        },
+        {
+            "id": "0936",
+            "name": "Stari Banovci",
+            "posta": "22305"
+        },
+        {
+            "id": "0937",
+            "name": "Stari Lec",
+            "posta": "26371"
+        },
+        {
+            "id": "0938",
+            "name": "Stari Slankamen",
+            "posta": "22329"
+        },
+        {
+            "id": "0939",
+            "name": "Stari Žednik",
+            "posta": "24224"
+        },
+        {
+            "id": "0940",
+            "name": "Staro Selo (kod Velike Plane)",
+            "posta": "11324"
+        },
+        {
+            "id": "0941",
+            "name": "Stave",
+            "posta": "14255"
+        },
+        {
+            "id": "0942",
+            "name": "Stejanovci",
+            "posta": "22405"
+        },
+        {
+            "id": "0943",
+            "name": "Stenjevac",
+            "posta": "35215"
+        },
+        {
+            "id": "0944",
+            "name": "Stepanovićevo",
+            "posta": "21212"
+        },
+        {
+            "id": "0945",
+            "name": "Stepojevac",
+            "posta": "14234"
+        },
+        {
+            "id": "0946",
+            "name": "Stojnik",
+            "posta": "34307"
+        },
+        {
+            "id": "0947",
+            "name": "Stopanja",
+            "posta": "37242"
+        },
+        {
+            "id": "0948",
+            "name": "Stragari",
+            "posta": "34323"
+        },
+        {
+            "id": "0949",
+            "name": "Straža (Banat)",
+            "posta": "26345"
+        },
+        {
+            "id": "0950",
+            "name": "Strelac",
+            "posta": "18332"
+        },
+        {
+            "id": "0951",
+            "name": "Strižilo",
+            "posta": "35269"
+        },
+        {
+            "id": "0952",
+            "name": "Stubline",
+            "posta": "11507"
+        },
+        {
+            "id": "0953",
+            "name": "Studenica",
+            "posta": "36343"
+        },
+        {
+            "id": "0954",
+            "name": "Subotica",
+            "posta": "24000"
+        },
+        {
+            "id": "0955",
+            "name": "Subotica (kod Svilajnca)",
+            "posta": "35209"
+        },
+        {
+            "id": "0956",
+            "name": "Subotinac",
+            "posta": "18227"
+        },
+        {
+            "id": "0957",
+            "name": "Subotište",
+            "posta": "22414"
+        },
+        {
+            "id": "0958",
+            "name": "Sukovo",
+            "posta": "18322"
+        },
+        {
+            "id": "0959",
+            "name": "Sumrakovac",
+            "posta": "19376"
+        },
+        {
+            "id": "0960",
+            "name": "Supska",
+            "posta": "35228"
+        },
+        {
+            "id": "0961",
+            "name": "Surčin",
+            "posta": "11271"
+        },
+        {
+            "id": "0962",
+            "name": "Surduk",
+            "posta": "22307"
+        },
+        {
+            "id": "0963",
+            "name": "Surdulica",
+            "posta": "17530"
+        },
+        {
+            "id": "0964",
+            "name": "Susek",
+            "posta": "21313"
+        },
+        {
+            "id": "0965",
+            "name": "Sutjeska",
+            "posta": "23244"
+        },
+        {
+            "id": "0966",
+            "name": "Suvi Do",
+            "posta": "12322"
+        },
+        {
+            "id": "0967",
+            "name": "Sveti Ilija",
+            "posta": "17508"
+        },
+        {
+            "id": "0968",
+            "name": "Svetozar MiIetić",
+            "posta": "25211"
+        },
+        {
+            "id": "0969",
+            "name": "Svilajnac",
+            "posta": "35210"
+        },
+        {
+            "id": "0970",
+            "name": "Svileuva",
+            "posta": "15221"
+        },
+        {
+            "id": "0971",
+            "name": "Svilojevo",
+            "posta": "25265"
+        },
+        {
+            "id": "0972",
+            "name": "Svođe",
+            "posta": "16212"
+        },
+        {
+            "id": "0973",
+            "name": "Svrljig",
+            "posta": "18360"
+        },
+        {
+            "id": "0974",
+            "name": "Svojnovo",
+            "posta": "35259"
+        },
+        {
+            "id": "0975",
+            "name": "Šabac",
+            "posta": "15000"
+        },
+        {
+            "id": "0976",
+            "name": "Šajkaš",
+            "posta": "21244"
+        },
+        {
+            "id": "0977",
+            "name": "Šarbanovac",
+            "posta": "19373"
+        },
+        {
+            "id": "0978",
+            "name": "Šašinci",
+            "posta": "22425"
+        },
+        {
+            "id": "0979",
+            "name": "Šepšin",
+            "posta": "11433"
+        },
+        {
+            "id": "0980",
+            "name": "Šetonje",
+            "posta": "12309"
+        },
+        {
+            "id": "0981",
+            "name": "Šid",
+            "posta": "22240"
+        },
+        {
+            "id": "0982",
+            "name": "Šilopaj",
+            "posta": "32311"
+        },
+        {
+            "id": "0983",
+            "name": "Šimanovci",
+            "posta": "22310"
+        },
+        {
+            "id": "0984",
+            "name": "Šljivovica",
+            "posta": "31244"
+        },
+        {
+            "id": "0985",
+            "name": "Šljivovo",
+            "posta": "37239"
+        },
+        {
+            "id": "0986",
+            "name": "Štavalj",
+            "posta": "36311"
+        },
+        {
+            "id": "0987",
+            "name": "Štitar",
+            "posta": "15354"
+        },
+        {
+            "id": "0988",
+            "name": "Štubik",
+            "posta": "19303"
+        },
+        {
+            "id": "0989",
+            "name": "Šurjan",
+            "posta": "23254"
+        },
+        {
+            "id": "0990",
+            "name": "Takovo",
+            "posta": "32304"
+        },
+        {
+            "id": "0991",
+            "name": "Taraš",
+            "posta": "23209"
+        },
+        {
+            "id": "0992",
+            "name": "Tavankut",
+            "posta": "24214"
+        },
+        {
+            "id": "0993",
+            "name": "Tekeriš",
+            "posta": "15234"
+        },
+        {
+            "id": "0994",
+            "name": "Tekija",
+            "posta": "19325"
+        },
+        {
+            "id": "0995",
+            "name": "Telečka",
+            "posta": "25222"
+        },
+        {
+            "id": "0996",
+            "name": "Temerin",
+            "posta": "21235"
+        },
+        {
+            "id": "0997",
+            "name": "Temska",
+            "posta": "18355"
+        },
+        {
+            "id": "0998",
+            "name": "Tešica",
+            "posta": "18212"
+        },
+        {
+            "id": "0999",
+            "name": "Titel",
+            "posta": "21240"
+        },
+        {
+            "id": "1000",
+            "name": "Toba",
+            "posta": "23222"
+        },
+        {
+            "id": "1001",
+            "name": "Tomaševac",
+            "posta": "23262"
+        },
+        {
+            "id": "1002",
+            "name": "Topola",
+            "posta": "34310"
+        },
+        {
+            "id": "1003",
+            "name": "Topolovnik",
+            "posta": "12226"
+        },
+        {
+            "id": "1004",
+            "name": "Toponica",
+            "posta": "34243"
+        },
+        {
+            "id": "1005",
+            "name": "Torda",
+            "posta": "23214"
+        },
+        {
+            "id": "1006",
+            "name": "Tornjoš",
+            "posta": "24352"
+        },
+        {
+            "id": "1007",
+            "name": "Tovariševo",
+            "posta": "21424"
+        },
+        {
+            "id": "1008",
+            "name": "Trbušani",
+            "posta": "32205"
+        },
+        {
+            "id": "1009",
+            "name": "Trešnjevac",
+            "posta": "24426"
+        },
+        {
+            "id": "1010",
+            "name": "Trešnjevica",
+            "posta": "35248"
+        },
+        {
+            "id": "1011",
+            "name": "Trgovište",
+            "posta": "17525"
+        },
+        {
+            "id": "1012",
+            "name": "Trnava (kod Čačka)",
+            "posta": "32221"
+        },
+        {
+            "id": "1013",
+            "name": "Trnavci",
+            "posta": "37235"
+        },
+        {
+            "id": "1014",
+            "name": "Trnjane",
+            "posta": "19306"
+        },
+        {
+            "id": "1015",
+            "name": "Trstenik",
+            "posta": "37240"
+        },
+        {
+            "id": "1016",
+            "name": "Tršić",
+            "posta": "15303"
+        },
+        {
+            "id": "1017",
+            "name": "Trupale",
+            "posta": "18211"
+        },
+        {
+            "id": "1018",
+            "name": "Tulare",
+            "posta": "16247"
+        },
+        {
+            "id": "1019",
+            "name": "Turekovac",
+            "posta": "16231"
+        },
+        {
+            "id": "1020",
+            "name": "Turija (kod Kučeva)",
+            "posta": "12257"
+        },
+        {
+            "id": "1021",
+            "name": "Turija",
+            "posta": "21215"
+        },
+        {
+            "id": "1022",
+            "name": "Tutin",
+            "posta": "36320"
+        },
+        {
+            "id": "1023",
+            "name": "Ub",
+            "posta": "14210"
+        },
+        {
+            "id": "1024",
+            "name": "Ugao",
+            "posta": "36313"
+        },
+        {
+            "id": "1025",
+            "name": "Ugrinovci",
+            "posta": "32314"
+        },
+        {
+            "id": "1026",
+            "name": "Ugrinovci (kod Batajnice)",
+            "posta": "11277"
+        },
+        {
+            "id": "1027",
+            "name": "Uljma",
+            "posta": "26330"
+        },
+        {
+            "id": "1028",
+            "name": "Umčari",
+            "posta": "11430"
+        },
+        {
+            "id": "1029",
+            "name": "Umka",
+            "posta": "11260"
+        },
+        {
+            "id": "1030",
+            "name": "Urovica",
+            "posta": "19305"
+        },
+        {
+            "id": "1031",
+            "name": "Utrine",
+            "posta": "24437"
+        },
+        {
+            "id": "1032",
+            "name": "Ušće",
+            "posta": "36342"
+        },
+        {
+            "id": "1033",
+            "name": "Uzdin",
+            "posta": "26216"
+        },
+        {
+            "id": "1034",
+            "name": "Uzovnica",
+            "posta": "15319"
+        },
+        {
+            "id": "1035",
+            "name": "Užice",
+            "posta": "31000"
+        },
+        {
+            "id": "1036",
+            "name": "Vajska",
+            "posta": "21426"
+        },
+        {
+            "id": "1037",
+            "name": "Valjevo",
+            "posta": "14000"
+        },
+        {
+            "id": "1038",
+            "name": "Varda 031",
+            "posta": "31263"
+        },
+        {
+            "id": "1039",
+            "name": "Varna (kod Šapca)",
+            "posta": "15232"
+        },
+        {
+            "id": "1040",
+            "name": "Varvarin",
+            "posta": "37260"
+        },
+        {
+            "id": "1041",
+            "name": "Vasilj",
+            "posta": "19367"
+        },
+        {
+            "id": "1042",
+            "name": "Vatin",
+            "posta": "26337"
+        },
+        {
+            "id": "1043",
+            "name": "Vašica",
+            "posta": "22241"
+        },
+        {
+            "id": "1044",
+            "name": "Velesnica",
+            "posta": "19328"
+        },
+        {
+            "id": "1045",
+            "name": "Velika Drenova",
+            "posta": "37245"
+        },
+        {
+            "id": "1046",
+            "name": "Velika Grabovica",
+            "posta": "16221"
+        },
+        {
+            "id": "1047",
+            "name": "Velika Greda",
+            "posta": "26366"
+        },
+        {
+            "id": "1048",
+            "name": "Velika Ivanča",
+            "posta": "11414"
+        },
+        {
+            "id": "1049",
+            "name": "Velika Krsna",
+            "posta": "11408"
+        },
+        {
+            "id": "1050",
+            "name": "Velika Lomnica",
+            "posta": "37209"
+        },
+        {
+            "id": "1051",
+            "name": "Velika Lukanja",
+            "posta": "18305"
+        },
+        {
+            "id": "1052",
+            "name": "Velika Moštanica",
+            "posta": "11206"
+        },
+        {
+            "id": "1053",
+            "name": "Velika Plana",
+            "posta": "11320"
+        },
+        {
+            "id": "1054",
+            "name": "Velika Plana (Toplička)",
+            "posta": "18403"
+        },
+        {
+            "id": "1055",
+            "name": "Velika Reka",
+            "posta": "15322"
+        },
+        {
+            "id": "1056",
+            "name": "Velika Vrbnica",
+            "posta": "37233"
+        },
+        {
+            "id": "1057",
+            "name": "Velike Livade",
+            "posta": "23217"
+        },
+        {
+            "id": "1058",
+            "name": "Veliki Borak",
+            "posta": "11462"
+        },
+        {
+            "id": "1059",
+            "name": "Veliki Crljeni",
+            "posta": "14233"
+        },
+        {
+            "id": "1060",
+            "name": "Veliki Gaj",
+            "posta": "26365"
+        },
+        {
+            "id": "1061",
+            "name": "Veliki lzvor",
+            "posta": "19206"
+        },
+        {
+            "id": "1062",
+            "name": "Veliki Popović",
+            "posta": "35223"
+        },
+        {
+            "id": "1063",
+            "name": "Veliki Radinci",
+            "posta": "22211"
+        },
+        {
+            "id": "1064",
+            "name": "Veliki Šiljegovac",
+            "posta": "37204"
+        },
+        {
+            "id": "1065",
+            "name": "Veliko Bonjince",
+            "posta": "18217"
+        },
+        {
+            "id": "1066",
+            "name": "Veliko Gradište",
+            "posta": "12220"
+        },
+        {
+            "id": "1067",
+            "name": "Veliko Laole",
+            "posta": "12306"
+        },
+        {
+            "id": "1068",
+            "name": "Veliko Orašje",
+            "posta": "11323"
+        },
+        {
+            "id": "1069",
+            "name": "Veliko Selo",
+            "posta": "12314"
+        },
+        {
+            "id": "1070",
+            "name": "Veliko Središte",
+            "posta": "26334"
+        },
+        {
+            "id": "1071",
+            "name": "Venčane",
+            "posta": "34306"
+        },
+        {
+            "id": "1072",
+            "name": "Veternik",
+            "posta": "21203"
+        },
+        {
+            "id": "1073",
+            "name": "Viča",
+            "posta": "32233"
+        },
+        {
+            "id": "1074",
+            "name": "Vilovo",
+            "posta": "21246"
+        },
+        {
+            "id": "1075",
+            "name": "Vina",
+            "posta": "19368"
+        },
+        {
+            "id": "1076",
+            "name": "Vinarce",
+            "posta": "16207"
+        },
+        {
+            "id": "1077",
+            "name": "Vionica",
+            "posta": "32254"
+        },
+        {
+            "id": "1078",
+            "name": "Visočka Ržana",
+            "posta": "18306"
+        },
+        {
+            "id": "1079",
+            "name": "Višnjevac",
+            "posta": "24222"
+        },
+        {
+            "id": "1080",
+            "name": "Višnjićevo",
+            "posta": "22246"
+        },
+        {
+            "id": "1081",
+            "name": "Vitanovac",
+            "posta": "36206"
+        },
+        {
+            "id": "1082",
+            "name": "Vitkavac",
+            "posta": "36207"
+        },
+        {
+            "id": "1083",
+            "name": "Vitojevci",
+            "posta": "22431"
+        },
+        {
+            "id": "1084",
+            "name": "Vitoševac",
+            "posta": "37213"
+        },
+        {
+            "id": "1085",
+            "name": "Vladičin Han",
+            "posta": "17510"
+        },
+        {
+            "id": "1086",
+            "name": "Vladimirci",
+            "posta": "15225"
+        },
+        {
+            "id": "1087",
+            "name": "Vladimirovac",
+            "posta": "26315"
+        },
+        {
+            "id": "1088",
+            "name": "Vlajkovac",
+            "posta": "26332"
+        },
+        {
+            "id": "1089",
+            "name": "Vlase",
+            "posta": "17507"
+        },
+        {
+            "id": "1090",
+            "name": "Vlasina Okruglica",
+            "posta": "17532"
+        },
+        {
+            "id": "1091",
+            "name": "Vlasina Rid",
+            "posta": "17533"
+        },
+        {
+            "id": "1092",
+            "name": "Vlasina Stojkovićeva",
+            "posta": "17534"
+        },
+        {
+            "id": "1093",
+            "name": "Vlasotince",
+            "posta": "16210"
+        },
+        {
+            "id": "1094",
+            "name": "Vlaška",
+            "posta": "11406"
+        },
+        {
+            "id": "1095",
+            "name": "Vlaški Do",
+            "posta": "12371"
+        },
+        {
+            "id": "1096",
+            "name": "Vodanj",
+            "posta": "11328"
+        },
+        {
+            "id": "1097",
+            "name": "Voganj",
+            "posta": "22429"
+        },
+        {
+            "id": "1098",
+            "name": "Vojka",
+            "posta": "22313"
+        },
+        {
+            "id": "1099",
+            "name": "Vojska",
+            "posta": "35208"
+        },
+        {
+            "id": "1100",
+            "name": "Vojvoda Stepa",
+            "posta": "23219"
+        },
+        {
+            "id": "1101",
+            "name": "Voluja",
+            "posta": "12256"
+        },
+        {
+            "id": "1102",
+            "name": "Vraćevšnica",
+            "posta": "32315"
+        },
+        {
+            "id": "1103",
+            "name": "Vračev Gaj",
+            "posta": "26348"
+        },
+        {
+            "id": "1104",
+            "name": "Vranić",
+            "posta": "11427"
+        },
+        {
+            "id": "1105",
+            "name": "Vranovo",
+            "posta": "11329"
+        },
+        {
+            "id": "1106",
+            "name": "Vranje",
+            "posta": "17000"
+        },
+        {
+            "id": "1107",
+            "name": "Vranjska Banja",
+            "posta": "17542"
+        },
+        {
+            "id": "1108",
+            "name": "Vratamica",
+            "posta": "19344"
+        },
+        {
+            "id": "1109",
+            "name": "Vražogrnac",
+            "posta": "19312"
+        },
+        {
+            "id": "1110",
+            "name": "Vrba",
+            "posta": "36214"
+        },
+        {
+            "id": "1111",
+            "name": "Vrbas",
+            "posta": "21460"
+        },
+        {
+            "id": "1112",
+            "name": "Vrbica",
+            "posta": "23329"
+        },
+        {
+            "id": "1113",
+            "name": "Vrčin",
+            "posta": "11224"
+        },
+        {
+            "id": "1114",
+            "name": "Vrdnik",
+            "posta": "22408"
+        },
+        {
+            "id": "1115",
+            "name": "Vreoci",
+            "posta": "14230"
+        },
+        {
+            "id": "1116",
+            "name": "Vrnjačka Banja",
+            "posta": "36210"
+        },
+        {
+            "id": "1117",
+            "name": "Vrnjci",
+            "posta": "36217"
+        },
+        {
+            "id": "1118",
+            "name": "Vršac",
+            "posta": "26300"
+        },
+        {
+            "id": "1119",
+            "name": "Vučje",
+            "posta": "16203"
+        },
+        {
+            "id": "1120",
+            "name": "Zablaće",
+            "posta": "32223"
+        },
+        {
+            "id": "1121",
+            "name": "Zabojnica",
+            "posta": "34244"
+        },
+        {
+            "id": "1122",
+            "name": "Zabrežje",
+            "posta": "11505"
+        },
+        {
+            "id": "1123",
+            "name": "Zagaljica",
+            "posta": "26344"
+        },
+        {
+            "id": "1124",
+            "name": "Zajača",
+            "posta": "15315"
+        },
+        {
+            "id": "1125",
+            "name": "Zaječar",
+            "posta": "19000"
+        },
+        {
+            "id": "1126",
+            "name": "Zasavica",
+            "posta": "22201"
+        },
+        {
+            "id": "1127",
+            "name": "Zavlaka",
+            "posta": "15312"
+        },
+        {
+            "id": "1128",
+            "name": "Zdravinje",
+            "posta": "37203"
+        },
+        {
+            "id": "1129",
+            "name": "Zemun",
+            "posta": "11080"
+        },
+        {
+            "id": "1130",
+            "name": "Zlatibor",
+            "posta": "31315"
+        },
+        {
+            "id": "1131",
+            "name": "Zlodol",
+            "posta": "31253"
+        },
+        {
+            "id": "1132",
+            "name": "Zlot",
+            "posta": "19215"
+        },
+        {
+            "id": "1133",
+            "name": "Zmajevo",
+            "posta": "21213"
+        },
+        {
+            "id": "1134",
+            "name": "Zrenjanin",
+            "posta": "23000"
+        },
+        {
+            "id": "1135",
+            "name": "Zuce",
+            "posta": "11225"
+        },
+        {
+            "id": "1136",
+            "name": "Zvezdan",
+            "posta": "19227"
+        },
+        {
+            "id": "1137",
+            "name": "Zvonce",
+            "posta": "18333"
+        },
+        {
+            "id": "1138",
+            "name": "Žabalj",
+            "posta": "21230"
+        },
+        {
+            "id": "1139",
+            "name": "Žabari",
+            "posta": "12374"
+        },
+        {
+            "id": "1140",
+            "name": "Žagubica",
+            "posta": "12320"
+        },
+        {
+            "id": "1141",
+            "name": "Železnik",
+            "posta": "11250"
+        },
+        {
+            "id": "1142",
+            "name": "Žitište",
+            "posta": "23210"
+        },
+        {
+            "id": "1143",
+            "name": "Žitkovac",
+            "posta": "18210"
+        },
+        {
+            "id": "1144",
+            "name": "Žitni Potok",
+            "posta": "18407"
+        },
+        {
+            "id": "1145",
+            "name": "Žitorađa",
+            "posta": "18412"
+        },
+        {
+            "id": "1146",
+            "name": "Žuć",
+            "posta": "18348"
+        }
+    ]
+}
