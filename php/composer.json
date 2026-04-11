@@ -1,0 +1,36 @@
+{
+    "name": "places-serbia",
+    "description": "PHP library for working with Serbian settlements data",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Places Contributors"
+        }
+    ],
+    "require": {
+        "php": "^8.0"
+    },
+    "require-dev": {
+        "phpunit/phpunit": "^9.0 || ^10.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "Places\\": "src/"
+        },
+        "files": [
+            "src/functions.php"
+        ]
+    },
+    "autoload-dev": {
+        "psr-4": {
+            "Places\\Tests\\": "tests/"
+        }
+    },
+    "scripts": {
+        "test": "phpunit",
+        "test:coverage": "phpunit --coverage-text"
+    },
+    "minimum-stability": "stable",
+    "prefer-stable": true
+}

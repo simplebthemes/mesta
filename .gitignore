@@ -1,39 +1,26 @@
 ```
-# Python
-__pycache__/
-*.pyc
-*.pyo
-*.pyd
+# Dependencies
+vendor/
+composer.lock
 
-# Logs and temp files
+# Test and coverage
+.phpunit.result.cache
+coverage/
 *.log
-*.tmp
 
 # Environment
 .env
 .env.local
-*.env.*
+.env.*
 
-# Dependencies
-.venv/
-venv/
-node_modules/
-
-# Build artifacts
-dist/
-build/
-target/
-
-# Editors
+# IDE
 .vscode/
 .idea/
+*.swp
+*.swo
+*.tmp
 
-# OS generated files
+# OS
 .DS_Store
 Thumbs.db
-
-# Testing
-.coverage
-htmlcov/
-.coverage.*
 ```
